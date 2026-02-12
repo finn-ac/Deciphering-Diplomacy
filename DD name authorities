@@ -855,782 +855,820 @@
             <ptr target="https://en.wikipedia.org/wiki/Ulrich,_10th_Prince_Kinsky_of_Wchinitz_and_Tettau"/>
             </person>
          
-         <person xml:id="person-EH068">
-            <persName> Qutb-ul Aqtaab Naqib Al Ashraaf Syed Abd ar-Rahman al-Qadri al Gillani </persName>
-            <birth when="1841-01-11"/>
-            <death when="1927-06-13"/>
+         <person xml:id="person-DD067">
+            <persName> Baroness <forename> Marie </forename> <surname> Bussche-Haddenhausen </surname> </persName>
+            <birth when="1900"/>
+            <death when="1974"/>
             <note>
-               <p> Naqib al-ashraf of Baghdad, and first Prime Minister of Iraq, leader of the
-                  Council of Ministers </p>
+               <p> Married to Ulrich, 10th Prince Kinsky of Wchinitz and Tettau </p>
             </note>
-            <ptr target="https://en.wikipedia.org/wiki/Abd_Al-Rahman_Al-Gillani"/>
+            <ptr target="https://en.wikipedia.org/wiki/Bussche_family"/>
          </person>
-         <person xml:id="person-EH069">
+         
+         <person xml:id="person-DD068">
+            <idno type="VIAF"> 95172677 </idno>
             <persName>
-               <forename> Izzat </forename>
-               <surname> Pasha al-Kirkouki </surname>
+               <forename> Alfons Maria Edmund Friedrich Karl Joseph Aloisius Gregor </forename>
+               <surname> Clary-Aldringen </surname>
             </persName>
-            <birth when="1870" notBefore="1870-01-01" notAfter="1870-12-31"/>
-            <death when="1932" notBefore="1932-01-01" notAfter="1932-12-31"/>
-            <note>
-               <p> Iraqi Minister of Communications and Works </p>
-            </note>
+            <birth when="1887-03-12"/>
+            <death when="1978-10-06"/>
+            <ptr target="https://de.wikipedia.org/wiki/Alfons_von_Clary_und_Aldringen"/>
          </person>
-         <person xml:id="person-EH070">
+         
+         <person xml:id="person-DD069">
             <persName>
-               <forename> Rashid </forename> Beg <surname> al-Khojah </surname>
+               <forename>  </forename>  <surname>  </surname>
             </persName>
-            <birth when="1884" notBefore="1884-01-01" notAfter="1884-12-31"/>
+            <birth />
             <note>
-               <p> Mutasarrif of Baghdad </p>
+               <p>  </p>
             </note>
-            <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100061134244.0x000042"/>
+            <ptr />
          </person>
-         <person xml:id="person-EH071">
-            <persName> Captain <forename> A H </forename>
-               <surname> Ditchburn </surname>
+         
+         <person xml:id="person-DD070">
+            <persName>  <forename>  </forename>
+               <surname>  </surname>
             </persName>
-            <death notBefore="1921-09-25"/>
+            <death />
             <note>
-               <p> Political officer for the Muntafiq Division </p>
+               <p>  </p>
             </note>
-            <ptr
-               target="https://vtechworks.lib.vt.edu/bitstream/handle/10919/90669/Furrow_HA_T_2019.pdf?sequence=1"
-            />
-         </person>
-         <person xml:id="person-EH072">
-            <idno type="VIAF"> 22912823 </idno>
+            <ptr />
+           </person>
+         
+         <person xml:id="person-DD071">
+            <idno type="VIAF">  </idno>
             <persName>
-               <forename> Edward Stuart </forename>
-               <surname> Talbot </surname>
+               <forename>  </forename>
+               <surname>  </surname>
             </persName>
-            <birth when="1844-02-19"/>
-            <death when="1934-01-30"/>
+            <birth />
+            <death />
             <note>
-               <p> Bishop of Winchester </p>
+               <p>  </p>
             </note>
-            <ptr target="http://viaf.org/viaf/22912823"/>
-            <ptr target="https://en.wikipedia.org/wiki/Edward_Talbot_(bishop)"/>
+            <ptr />
+            <ptr />
          </person>
-         <person xml:id="person-EH073">
-            <idno type="VIAF"> 28363059 </idno>
-            <persName>
-               <forename> Sayyid Muhammad </forename> - <surname> Hasan al-Sadr </surname>
+         
+         <person xml:id="person-DD072">
+            <idno type="VIAF"> 305236872 </idno>
+            <persName> Dame
+               <forename> Margaret Helen </forename> <surname> Greville </surname> , DBE
             </persName>
-            <birth when="1882-01-07"/>
-            <death when="1956-04-03"/>
+            <birth when=" 1863-12-20"/>
+            <death when="1942-09-15"/>
             <note>
-               <p> Son of Saiyid Hasan Sadr </p>
+               <p> British society hostess and philanthropist </p>
             </note>
-            <ptr target="http://viaf.org/viaf/28363059"/>
-            <ptr target="https://en.wikipedia.org/wiki/Mohammad_Hassan_al-Sadr"/>
+            <ptr target="http://viaf.org/viaf/305236872"/>
+            <ptr target="https://en.wikipedia.org/wiki/Margaret_Greville"/>
          </person>
-         <person xml:id="person-EH074">
-            <persName>
-               <forename> Mohammed </forename>
-               <surname> al-Habib al-Amir </surname>
+         
+         <person xml:id="person-DD073">
+            <idno type="VIAF"> 75616888 </idno>
+            <persName> Lady
+               <forename> Maud Alice Burke </forename>
+               <surname> Cunard </surname>
             </persName>
-            <death notBefore="1921-09-25"/>
+            <birth when="1872-08-03"/>
+            <death when="1948-07-10"/>
             <note>
-               <p> Head of the Rabi'ah tribe </p>
+               <p> American born, London society hostess; known as Emerald </p>
             </note>
-            <ptr
-               target="https://www.jstor.org/stable/pdf/41721149.pdf?refreqid=excelsior%3A473f34c9bbf73f35ef0f78980059b5dd&amp;ab_segments=&amp;origin="
-            />
-         </person>
-         <person xml:id="person-EH075">
-            <persName>
-               <surname/>
-               <forename/> Umran al Haji Sa'dun </persName>
-            <death notBefore="1921-09-25"/>
-            <note>
-               <p> Head of the Bani Hasan tribe </p>
-            </note>
-         </person>
-         <person xml:id="person-EH076">
-            <persName>
-               <surname/>
-               <forename/>
+            <ptr target="http://viaf.org/viaf/75616888"/>
+            <ptr target="https://en.wikipedia.org/wiki/Maud_Cunard"/>
+          </person>
+         
+         <person xml:id="person-DD074">
+            <idno type="VIAF"> 40454521 </idno>
+            <persName> <forename> Ernst Otto Nicolaus </forename> <surname> Kundt </surname>
             </persName>
-            <death notBefore="1921-09-25"/>
+            <birth when="1897-04-15"/>
+            <death when="1947-02-15"/>
             <note>
-               <p> Mayor of Mu'adhdhdam </p>
+               <p> Chairman of the Sudeten German Party (SdP) </p>
             </note>
+            <ptr target="http://viaf.org/viaf/40454521"/>
+            <ptr target="https://de.wikipedia.org/wiki/Ernst_Kundt"/>
          </person>
-         <person xml:id="person-EH077">
-            <idno type="VIAF"> 264238289 </idno>
-            <persName>
-               <forename> Muhammad Idris </forename> bin Muhammad al-Mahdi as-Senussi </persName>
-            <birth when="1890-03-13"/>
-            <death when="1983-05-25"/>
-            <note>
-               <p> Head of the Senussi order; later King of Libya </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/264238289"/>
-            <ptr target="https://en.wikipedia.org/wiki/Idris_of_Libya"/>
-         </person>
-         <person xml:id="person-EH078">
-            <idno type="VIAF"> 29898812 </idno>
-            <persName>
-               <forename> Rosita </forename>
-               <surname> Forbes </surname>
-            </persName>
-            <birth when="1890-01-16"/>
-            <death when="1967-06-30"/>
-            <note>
-               <p> Travel writer, novelist and explorer </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/29898812"/>
-            <ptr target="https://en.wikipedia.org/wiki/Rosita_Forbes"/>
-         </person>
-         <person xml:id="person-EH079">
+         
+         <person xml:id="person-DD075">
             <persName>
                <surname/>
                <forename/>
             </persName>
-            <death notBefore="1921-09-25"/>
+            <death/>
             <note>
-               <p> Naqib of Samarra </p>
+               <p> </p>
             </note>
          </person>
-         <person xml:id="person-EH080">
-            <idno type="VIAF"> 46272958 </idno>
-            <persName> Air Chief Marshal Sir <forename> William Geoffrey Hanson </forename>
-               <surname> Salmond </surname> , KCB, KCMG, DSO </persName>
-            <birth when="1878-08-19"/>
-            <death when="1933-04-27"/>
-            <note>
-               <p> Air Vice Marshal in RAF </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/46272958"/>
-            <ptr target="https://en.wikipedia.org/wiki/Geoffrey_Salmond"/>
-         </person>
-         <person xml:id="person-EH081">
-            <persName> Major/Captain L. M. <surname> Yetts </surname>
-            </persName>
-            <death notBefore="1921-09-25"/>
-            <note>
-               <p> British Political Officer, Ramadi </p>
-            </note>
-            <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100023493269.0x00000c"/>
-         </person>
-         <person xml:id="person-EH082">
+         
+         <person xml:id="person-DD076">
+            <idno type="VIAF"> 806600 </idno>
             <persName>
-               <forename> Abu'l-Qasem </forename>
-               <surname> Lahuti </surname>
-            </persName>
-            <birth when="1887-10-12"/>
-            <death when="1957-03-16"/>
+               <forename> Karl Hermann </forename> <surname> Frank </surname> </persName>
+            <birth when="1898-01-24"/>
+            <death when="1946-05-22"/>
             <note>
-               <p> Iranian poet and political activist </p>
+               <p> Deputy President of Sudeten German Party (SdP) </p>
             </note>
-            <ptr target="https://www.iranicaonline.org/articles/lahuti-abul-qasem"/>
+            <ptr target="http://viaf.org/viaf/806600"/>
+            <ptr target="https://en.wikipedia.org/wiki/Karl_Hermann_Frank"/>
          </person>
-         <person xml:id="person-EH083">
-            <persName> Dr <forename> W </forename> . <surname> Campbell Mackie </surname>
-            </persName>
-            <death notBefore="1921-09-25"/>
-            <note>
-               <p> Surgeon specialist at New General Hospital, Baghdad </p>
-            </note>
-            <ptr target="https://www.qdl.qa/en/mirador/81055/vdc_100150355724.0x000002"/>
-         </person>
-         <person xml:id="person-EH084">
-            <persName> Dr <forename> Mary </forename> Campbell-Mackie, MBE, MB, ChB, DRCOG </persName>
-            <birth when="1892" notBefore="1888-01-01" notAfter="1893-12-31"/>
-            <death notBefore="1970-01-01" notAfter="2010-12-31"/>
-            <note>
-               <p> Doctor and Wife of Dr W. Campbell Mackie </p>
-            </note>
-            <ptr target="https://journals.co.za/doi/pdf/10.10520/AJA20785135_32918"/>
-         </person>
-         <person xml:id="person-EH085">
+         
+         <person xml:id="person-DD077">
+            <idno type="VIAF"> 95202626 </idno>
             <persName>
-               <surname/>
+               <forename> Anna </forename>
+               <surname> Müller </surname>
+            </persName>
+            <birth when="1899-01-05"/>
+            <note>
+               <p> Married to Karl Hermann Frank; divorced 1940 </p>
+            </note>
+            <ptr target="http://viaf.org/viaf/95202626"/>
+           </person>
+         
+         <person xml:id="person-DD078">
+            <idno type="VIAF"> 29912249 </idno>
+            <persName> Count <forename> Eugen Rudolph Maria </forename> <surname> Ledebur-Wicheln </surname>
+             </persName>
+            <birth when="1873-11-14"/>
+            <death when=" 1945-11-12"/>
+            <note>
+               <p>  </p>
+            </note>
+            <ptr target="http://viaf.org/viaf/29912249"/>
+            <ptr target="https://cs.wikipedia.org/wiki/Eugen_Ledebur-Wicheln"/>
+         </person>
+         
+         <person xml:id="person-DD079">
+            <persName> Countess <forename> Eleonora Maria </forename>
+               <surname> Larisch-Mönnich </surname>  </persName>
+            <birth when="1888"/>
+            <death when="1975"/>
+            <note>
+               <p> Married to Count Eugen Rudolph Maria Ledebur-Wicheln </p>
+            </note>
+           </person>
+         
+         <person xml:id="person-DD080">
+            <idno type="VIAF"> 56651696 </idno>
+            <persName> Tomáš Garrigue <surname> Masaryk </surname>
+            </persName>
+            <birth when="1850-03-07"/>
+            <death when=" 1937-09-14"/>
+            <note>
+               <p> Founder and first president of Czechoslovakia </p>
+            </note>
+            <ptr target="http://viaf.org/viaf/56651696"/>
+            <ptr target="https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Masaryk"/>
+         </person>
+         
+         <person xml:id="person-DD081">
+            <idno type="VIAF"> 19808344 </idno>
+            <persName>
+               <forename> Nevile Meyrick </forename>
+               <surname> Henderson </surname>
+            </persName>
+            <birth when="1882-06-10"/>
+            <death when="1942-12-30"/>
+            <note>
+               <p> British diplomat and ambassador to Germany, 1937-1939 </p>
+            </note>
+            <ptr target="http://viaf.org/viaf/19808344"/>
+            <ptr target="https://en.wikipedia.org/wiki/Nevile_Henderson"/>
+         </person>
+         
+         <person xml:id="person-DD082">
+            <persName>  <forename>  </forename>  <surname>  </surname>
+            </persName>
+            <death />
+            <note>
+               <p>  </p>
+            </note>
+            <ptr />
+         </person>
+         
+         <person xml:id="person-DD083">
+            <persName>  <forename> </forename> <surname> </surname> </persName>
+            </person>
+         
+         <person xml:id="person-DD084">
+            <persName> Countess <forename> Countess Elisabeth Alexandrine Maria Sophie Felicie </forename> <surname> Clary-Aldringen </surname> </persName>
+         </person>
+         
+         <person xml:id="person-DD085">
+            <persName>
                <forename/>
             </persName>
+            <death />
+            <note>
+               <p>  </p>
+            </note>
          </person>
-         <person xml:id="person-EH086">
-            <persName>
-               <forename/>
+         
+         <person xml:id="person-DD086">
+            <idno type="VIAF"> 165359479 </idno>
+            <persName> <forename> Marie </forename>  <surname> Baťová </surname>
             </persName>
-            <death notBefore="1921-09-25"/>
+            <birth when="1892-06-22"/>
+            <death when="1954-02-27"/>
             <note>
-               <p> Wife of Qasim Khan </p>
+               <p> Czech businesswoman; married to Tomáš Baťa; nee Menčíková </p>
             </note>
-         </person>
-         <person xml:id="person-EH087">
-            <persName> Lady <forename> Alice </forename> Constance <surname> Egerton </surname>
-            </persName>
-            <birth when="1870-11-12"/>
-            <death when="1932-11-06"/>
-            <note>
-               <p> Friend of Bell's </p>
-            </note>
-            <ptr
-               target="https://archives.trin.cam.ac.uk/index.php/egerton-lady-alice-constance-1870-1932-daughter-of-francis-egerton-3rd-earl-of-ellesmere"
-            />
-         </person>
-         <person xml:id="person-EH088">
-            <idno type="VIAF"> 35255264 </idno>
+            <ptr target="http://viaf.org/viaf/165359479"/>
+            <ptr target="https://cs.wikipedia.org/wiki/Marie_Ba%C5%A5ov%C3%A1"/>
+            </person>
+         
+         <person xml:id="person-DD087">
+            <idno type="VIAF"> 64088828 </idno>
             <persName>
-               <forename> Rosalind </forename>
-               <surname> Howard </surname> , Countess of Carlisle </persName>
-            <birth when="1845-02-20"/>
-            <death when="1921-08-12"/>
+               <forename> Tomáš Jan  </forename>
+               <surname> Baťa </surname> Jr. </persName>
+            <birth when="1914-09-17"/>
+            <death when="2008-09-01"/>
             <note>
-               <p> Dowager Countess of Carlisle </p>
+               <p> Son of Tomáš Baťa and Marie Baťová </p>
             </note>
-            <ptr target="http://viaf.org/viaf/35255264"/>
-            <ptr target="https://en.wikipedia.org/wiki/Rosalind_Howard,_Countess_of_Carlisle"/>
+            <ptr target="http://viaf.org/viaf/64088828"/>
+            <ptr target="https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Ba%C5%A5a_mlad%C5%A1%C3%AD"/>
          </person>
-         <person xml:id="person-EH089">
-            <idno type="VIAF"> 70099845 </idno>
-            <persName> Hakham <forename> Ezra Reuben </forename>
-               <surname> Dangoor </surname>
+         
+         <person xml:id="person-DD088">
+            <idno type="VIAF">  </idno>
+            <persName>  <forename>  </forename>
+               <surname>  </surname>
             </persName>
-            <birth when="1848" notBefore="1848-01-01" notAfter="1848-12-31"/>
-            <death when="1930" notBefore="1930-01-01" notAfter="1930-12-31"/>
+            <birth />
+            <death />
             <note>
-               <p> Grand Rabbi </p>
+               <p>  </p>
             </note>
-            <ptr target="http://viaf.org/viaf/70099845"/>
-            <ptr target="https://en.wikipedia.org/wiki/Ezra_Dangoor"/>
+            <ptr />
+            <ptr />
          </person>
-         <person xml:id="person-EH090">
+         
+         <person xml:id="person-DD089">
             <persName>
-               <forename> Al-Sayyid Hasan </forename>
-               <surname> al-Sadr </surname>
+               <forename>  </forename>
+               <surname>  </surname>
             </persName>
-            <birth when="1856-06-03"/>
-            <death when="1935-06-13"/>
+            <birth />
+            <death />
             <note>
-               <p> Father of Saiyid Muhammad Sadr </p>
+               <p>  </p>
             </note>
-            <ptr target="https://en.wikishia.net/view/Al-Sayyid_Hasan_al-Sadr"/>
+            <ptr />
          </person>
-         <person xml:id="person-EH091">
+         
+         <person xml:id="person-DD090">
             <persName>
-               <forename> Zetton </forename>
-               <surname> Buchanan </surname>
+               <forename>  </forename>
+               <surname>  </surname>
             </persName>
-            <birth when="1895" notBefore="1890-01-01" notAfter="1900-12-31"/>
-            <death notBefore="1921-09-25"/>
+            <birth />
+            <death />
             <note>
-               <p> Wife of airman killed during Iraqi Revolt </p>
+               <p>  </p>
             </note>
-            <ptr
-               target="https://www.amazon.co.uk/Hands-Arabs-Airmans-Mesopotamia-First/dp/0857067346"
-            />
-         </person>
-         <person xml:id="person-EH092">
-            <persName>
-               <forename> Ahmad </forename>
-               <surname> Haqqi Beg </surname>
+            <ptr/>
+          </person>
+         
+         <person xml:id="person-DD091">
+            <idno type="VIAF"> 248955172 </idno>
+            <persName> Sir
+               <forename> Arthur Clive </forename>
+               <surname> Morrison-Bell </surname> 1st Baronet
             </persName>
-            <death notBefore="1921-09-25"/>
+            <birth when="1871-04-19"/>
+            <death when=" 1956-04-16"/>
             <note>
-               <p> Director of the Iraq Military College </p>
+               <p> British soldier and politician </p>
+            </note>
+            <ptr target="http://viaf.org/viaf/248955172"/>
+            <ptr target="https://en.wikipedia.org/wiki/Clive_Morrison-Bell"/>
+         </person>
+         
+         <person xml:id="person-DD092">
+            <persName>
+               <forename>  </forename>
+               <surname> </surname>  </persName>
+            <death />
+            <note>
+               <p>  </p>
             </note>
          </person>
-         <person xml:id="person-EH093">
-            <persName>
-               <forename> Saiyid </forename>
-               <surname> Nur </surname>
+         
+         <person xml:id="person-DD093">
+            <idno type="VIAF"> 311428188 </idno>
+            <persName> Sir
+               <forename> Eric </forename>
+               <surname> Macfadyen </surname>
             </persName>
-            <death notBefore="1921-09-25"/>
+            <birth when="1879-02-09"/>
+            <death when="1966-07-13"/>
             <note>
-               <p> Tribal leader on the Middle Euphrates </p>
+               <p> Colonial administrator and businessman </p>
             </note>
+            <ptr target="http://viaf.org/viaf/311428188"/>
+            <ptr target="https://en.wikipedia.org/wiki/Eric_Macfadyen"/>
          </person>
-         <person xml:id="person-EH094">
-            <idno type="VIAF"> 47005120 </idno>
+         
+         <person xml:id="person-DD094">
+            <persName> <forename> Helena </forename> <surname> Lusumová </surname>
+           </persName>
+            <birth when="1895-07-23"/>
+            <death when="1967-11-16"/>
+            <note> <p> Married to Otokar Kruliš-Randa </p></note>
+         </person>
+         
+         <person xml:id="person-DD095">
+            <idno type="VIAF"> 103116535 </idno>
             <persName>
-               <forename> Mahmoud </forename>
-               <surname> Shokry al-Al Alusi </surname>
+               <forename> Otokar </forename>
+               <surname> Kruliš-Randa </surname>
             </persName>
-            <birth when="1856" notBefore="1856-01-01" notAfter="1856-12-31"/>
-            <death when="1924" notBefore="1924-01-01" notAfter="1924-12-31"/>
+            <birth when="1890-04-28"/>
+            <death when="1958-02-14"/>
             <note>
-               <p> Sunni 'Alim of Baghdad </p>
+               <p> Czech industrialist </p>
             </note>
-            <ptr target="http://viaf.org/viaf/47005120"/>
-            <ptr target="https://www.wikidata.org/wiki/Q12241253"/>
+            <ptr target="http://viaf.org/viaf/103116535"/>
+            <ptr target="https://cs.wikipedia.org/wiki/Otokar_Kruli%C5%A1-Randa"/>
          </person>
-         <person xml:id="person-EH095">
+         
+         <person xml:id="person-DD096">
+            <idno type="VIAF"> 67414086 </idno>
             <persName>
-               <surname/>
-               <forename/>
+               <forename> Jaroslav </forename>
+               <surname> Preiss </surname>
             </persName>
+            <birth when="1870-12-08"/>
+            <death when="1946-04-29"/>
+            <note>
+               <p> Czech banker </p>
+            </note>
+            <ptr target="http://viaf.org/viaf/67414086"/>
+            <ptr target="https://cs.wikipedia.org/wiki/Jaroslav_Preiss"/>
          </person>
-         <person xml:id="person-EH096">
+         
+         <person xml:id="person-DD097">
+            <persName>  <forename> Jarmila </forename>
+               <surname> Dimmerová </surname>  </persName>
+            <note>
+               <p> Married to Jaroslav Preiss </p>
+            </note>
+            </person>
+         
+         <person xml:id="person-DD098">
             <persName>
-               <forename> Huzaima </forename>
-               <surname> bint Nasser </surname>
-            </persName>
-            <birth when="1884" notBefore="1884-01-01" notAfter="1884-12-31"/>
-            <death when="1935-03-27"/>
+               <forename>  </forename>  <surname>  </surname> </persName>
+            <birth />
+            <death />
             <note>
-               <p> Wife of King Faisal </p>
+               <p>  </p>
             </note>
-            <ptr target="https://en.wikipedia.org/wiki/Huzaima_bint_Nasser"/>
+            <ptr />
          </person>
-         <person xml:id="person-EH097">
-            <idno type="VIAF"> 8688148705727937080008 </idno>
-            <persName>
-               <forename> Auda </forename>
-               <surname> Abu Tayi </surname>
-            </persName>
-            <birth when="1874-01-11"/>
-            <death when="1924-12-27"/>
-            <note>
-               <p> Leader of the Howeitat tribe </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/8688148705727937080008"/>
-            <ptr target="https://en.wikipedia.org/wiki/Auda_Abu_Tayi"/>
-         </person>
-         <person xml:id="person-EH098">
-            <persName> Shaikh <forename> Murdhi </forename>
-               <surname> al Rafidi </surname> of the 'Amarat tribe </persName>
-            <death notBefore="1921-09-25"/>
-            <note>
-               <p> Shaikh of the 'Amarat tribe of the 'Anizah </p>
-            </note>
-            <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100111165834.0x000082"/>
-         </person>
-         <person xml:id="person-EH099">
-            <persName>
-               <forename> Frederick </forename> Temple <surname> Barrington Ward </surname> , KC </persName>
-            <birth when="1880" notBefore="1880-01-01" notAfter="1880-12-31"/>
-            <death when="1938" notBefore="1938-01-01" notAfter="1938-12-31"/>
-            <note>
-               <p> Barrister; brother-in-law of Lionel Smith </p>
-            </note>
-            <ptr target="http://www.clement-jones.com/ps19/ps19_413.html"/>
-         </person>
-         <person xml:id="person-EH100">
+         
+         <person xml:id="person-DD099">
             <persName/>
          </person>
-         <person xml:id="person-EH101">
+         
+         <person xml:id="person-DD100">
             <persName>
-               <forename> Shumail </forename>
-               <surname> Sha'shu </surname>
+               <forename>  </forename>
+               <surname>  </surname>
             </persName>
             <note>
-               <p> Merchant accused of the murder of Antoine Kasparkhan </p>
+               <p>  </p>
             </note>
-            <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100111165834.0x00002b"/>
+            <ptr />
          </person>
-         <person xml:id="person-EH102">
+         
+         <person xml:id="person-DD101">
             <persName>
-               <forename> Rashid </forename>
-               <surname> al Umari </surname>
+               <forename> Paulina  </forename>
+               <surname> Langhans </surname>
             </persName>
-            <death notBefore="1924-01-01"/>
-            <note>
-               <p> Mutasarrif of Ramadi </p>
-            </note>
-            <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100038406030.0x000074"/>
+            <birth when="1886"/>
+            <death when="1963"/>
          </person>
-         <person xml:id="person-EH103">
-            <idno type="VIAF"> 316737386 </idno>
+         
+         
+         <person xml:id="person-DD102">
+            <idno type="VIAF">  </idno>
+            <persName> Count <forename> Manfred Beckett </forename> <surname> Czernin </surname>
+             </persName>
+            <birth when="1913-01-18"/>
+            <death when="1962-10-06"/>
+            <note>
+               <p> RAF pilot </p>
+            </note>
+            <ptr target="https://en.wikipedia.org/wiki/Count_Manfred_Beckett_Czernin"/>
+           </person>
+         
+         <person xml:id="person-DD103">
+            <idno type="VIAF"> 54957653 </idno>
             <persName>
-               <forename/> Air Chief Marshal Sir Henry Robert Moore Brooke-Popham, GCVO, KCB, CMG,
-               DSO, AFC </persName>
-            <birth when="1878-09-18"/>
-            <death when="1953-10-20"/>
+               <forename> Petr </forename>
+               <surname> Zenkl </surname>
+            </persName>
+            <birth when="1884-06-13"/>
+            <death when=" 1975-11-02"/>
             <note>
-               <p> Director of Research, British Air Ministry </p>
+               <p> Czech politician and mayor of Prague, 1937-1939 </p>
             </note>
-            <ptr target="http://viaf.org/viaf/316737386"/>
-            <ptr target="https://en.wikipedia.org/wiki/Robert_Brooke-Popham"/>
+            <ptr target="http://viaf.org/viaf/54957653"/>
+            <ptr target="https://en.wikipedia.org/wiki/Petr_Zenkl"/>
          </person>
-         <person xml:id="person-EH104">
-            <idno type="VIAF"> 39267923 </idno>
+         
+         <person xml:id="person-DD104">
             <persName>
-               <forename> Sandford Arthur </forename>
-               <surname> Strong </surname>
+               <forename> Edith Adele Koon </forename>
+               <surname> Carr </surname>
             </persName>
-            <birth when="1863-04-10"/>
-            <death when="1904-01-18"/>
             <note>
-               <p> Taught Bell Persian language c.1895 </p>
+         <p> Married to Wilbur J. Carr, United States Minister to Czechoslovakia </p>
             </note>
-            <ptr target="http://viaf.org/viaf/39267923"/>
-            <ptr target="https://en.wikipedia.org/wiki/Sandford_Arthur_Strong"/>
          </person>
-         <person xml:id="person-EH105">
+         
+         <person xml:id="person-DD105">
             <persName>
-               <forename> Mahrut </forename>
-               <surname> Beg </surname>
+               <forename>  </forename>
+               <surname>  </surname>
             </persName>
-            <birth notBefore="1900-01-01" notAfter="1904-12-31"/>
-            <death notBefore="1921-09-25"/>
+            <birth />
+            <death />
             <note>
-               <p> Fahad Beg ibn Hadhdhal's son </p>
+               <p>  </p>
             </note>
-            <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100038406030.0x00006e"/>
+            <ptr />
          </person>
-         <person xml:id="person-EH106">
+         
+         <person xml:id="person-DD106">
+            <idno type="VIAF"> 91964160 </idno>
+            <persName> Sir <forename> Robin David John Scott </forename>
+               <surname> Fox </surname>
+            </persName>
+            <birth when="1910-06-20"/>
+            <death when="1985-01-25"/>
+            <note>
+               <p> British diplomat </p>
+            </note>
+            <ptr target="http://viaf.org/viaf/91964160"/>
+            <ptr target="https://en.wikipedia.org/wiki/David_Scott_Fox"/>
+         </person>
+         
+         <person xml:id="person-DD107">
             <persName>
-               <forename> Mildred </forename>
-               <surname> Lowther </surname>
+               <forename>  </forename>
+               <surname>  </surname>
             </persName>
-            <birth when="1890-10-07"/>
-            <death when="1973-07-02"/>
+            <death />
             <note>
-               <p> Daughter of Lord Ullswater, previous work colleague of Bell's during 1915 </p>
+               <p>  </p>
             </note>
-            <ptr target="https://www.geni.com/people/Mildred-Lowther/6000000053129389934"/>
+            <ptr />
          </person>
-         <person xml:id="person-EH107">
-            <idno type="VIAF"> 27296968 </idno>
-            <persName> Sir <forename> Ignatius Valentine </forename>
-               <surname> Chirol </surname>
-            </persName>
-            <birth when="1852-05-25"/>
-            <death when="1929-10-22"/>
-            <note>
-               <p> British journalist and diplomat </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/27296968"/>
-            <ptr target="https://en.wikipedia.org/wiki/Valentine_Chirol"/>
-         </person>
-         <person xml:id="person-EH108">
-            <persName>
-               <forename> Hamid </forename>
-               <surname> Khan </surname>
-            </persName>
-            <death notBefore="1921-09-25"/>
-            <note>
-               <p> Mutasarrif of Karbala; cousin of the Aga Khan </p>
-            </note>
-            <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100111165834.0x000081"/>
-         </person>
-         <person xml:id="person-EH109">
+         
+         <person xml:id="person-DD108">
             <persName>
                <surname/>
             </persName>
-            <death notBefore="1921-09-25"/>
+            <death />
             <note>
-               <p> Member of Bell's staff </p>
+               <p> </p>
             </note>
          </person>
-         <person xml:id="person-EH110">
-            <idno type="VIAF"> 38311118 </idno>
+         
+         <person xml:id="person-DD109">
+            <idno type="VIAF">  </idno>
             <persName>
                <surname/>
-               <forename> Khosrow </forename> II/Chosroes II </persName>
-            <birth notBefore="0569-01-01" notAfter="0571-12-31"/>
-            <death when="0628-02-28"/>
+               <forename>  </forename>  </persName>
+            <birth />
+            <death />
             <note>
-               <p> Sasanian King of Iran </p>
+               <p> </p>
             </note>
-            <ptr target="http://viaf.org/viaf/38311118"/>
-            <ptr target="https://en.wikipedia.org/wiki/Khosrow_II"/>
+            <ptr />
+            <ptr />
          </person>
-         <person xml:id="person-EH111">
-            <idno type="VIAF"> 9854001 </idno>
+         
+         <person xml:id="person-DD110">
+            <idno type="VIAF"> 77382110 </idno>
             <persName>
-               <forename> Abū Jaʿfar Muḥammad </forename>
-               <surname> ibn Jarīr ibn Yazīd al-Ṭabarī </surname>
+               <forename> Horace John </forename>
+               <surname> Wilson </surname>
             </persName>
-            <birth when="0839" notBefore="0839-01-01" notAfter="0839-12-31"/>
-            <death when="0923" notBefore="0923-01-01" notAfter="0923-12-31"/>
+            <birth when="1882-08-23"/>
+            <death when="1972-05-19"/>
             <note>
-               <p> Muslim historian and scholar </p>
+               <p> British civil servant </p>
             </note>
-            <ptr target="http://viaf.org/viaf/9854001"/>
-            <ptr target="https://en.wikipedia.org/wiki/Al-Tabari"/>
+            <ptr target="http://viaf.org/viaf/77382110"/>
+            <ptr target="https://en.wikipedia.org/wiki/Horace_Wilson_(civil_servant)"/>
          </person>
-         <person xml:id="person-EH112">
-            <idno type="VIAF"> 45867278 </idno>
-            <persName>
-               <forename> Rustam </forename>
-               <surname> Haidar </surname>
-            </persName>
-            <birth when="1889" notBefore="1889-01-01" notAfter="1889-12-31"/>
-            <death when="1940-01-22"/>
-            <note>
-               <p> Aide-de-Camp to King Faisal </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/45867278"/>
-            <ptr target="https://en.wikipedia.org/wiki/Rustam_Haidar"/>
-         </person>
-         <person xml:id="person-EH113">
-            <idno type="VIAF"> 47196638 </idno>
-            <persName> Sir Sultan <forename> Mahomed </forename>
-               <surname> Shah </surname> , Aga Khan III </persName>
-            <birth when="1877-11-02"/>
-            <death when="1957-07-11"/>
-            <note>
-               <p> the Aga Khan </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/47196638"/>
-            <ptr target="https://en.wikipedia.org/wiki/Aga_Khan_III"/>
-         </person>
-         <person xml:id="person-EH114">
-            <persName>
-               <forename> Nuri </forename>
-               <surname> Pasha </surname>
+         
+         <person xml:id="person-DD111">
+              <persName> Major
+               <forename> Reginald </forename>
+                 <surname> Sutton-Pratt </surname>
             </persName>
             <note>
-               <p> Ja'far Pasha's brother-in-law </p>
+               <p> British observer. Formerly Assistant Military Attache in Prague </p>
             </note>
+            </person>
+         
+         <person xml:id="person-DD112">
+            <idno type="VIAF">  </idno>
+            <persName>  <forename>  </forename>
+               <surname> </surname>   </persName>
+            <birth />
+            <death />
+            <note>
+               <p>  </p>
+            </note>
+            <ptr />
+            <ptr />
          </person>
-         <person xml:id="person-EH115">
-            <idno type="VIAF"> 56470132 </idno>
+         
+         <person xml:id="person-DD113">
             <persName>
-               <forename> Ernest Tatham </forename>
-               <surname> Richmond </surname>
+               <forename>  </forename>
+               <surname>  </surname>
             </persName>
-            <birth when="1875-08-15"/>
-            <death when="1955-03-05"/>
             <note>
-               <p> Assistant Civil Secretary to the Government of Palestine; younger brother of
-                  Bell's brother-in-law, Herbert Richmond </p>
+               <p>  </p>
             </note>
-            <ptr target="http://viaf.org/viaf/56470132"/>
-            <ptr target="https://en.wikipedia.org/wiki/Ernest_Richmond"/>
          </person>
-         <person xml:id="person-EH116">
-            <idno type="VIAF"> 7626071 </idno>
-            <persName> Admiral Sir <forename> Herbert William </forename>
-               <surname> Richmond </surname> , KCB, FBA </persName>
-            <birth when="1871-09-15"/>
-            <death when="1946-12-15"/>
-            <note>
-               <p> Bell's brother-in-law, married to her half-sister Florence </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/7626071"/>
-            <ptr target="https://en.wikipedia.org/wiki/Herbert_Richmond"/>
-         </person>
-         <person xml:id="person-EH117">
-            <idno type="VIAF"> 12275353 </idno>
+         
+         <person xml:id="person-DD114">
+            <idno type="VIAF"> 180174788 </idno>
             <persName>
-               <forename> Gentile </forename>
-               <surname> Bellini </surname>
+               <forename> Maximilian Erwin </forename>
+               <surname> Lobkowicz </surname>
             </persName>
-            <birth when="1429" notBefore="1429-01-01" notAfter="1429-12-31"/>
-            <death when="1507-02-23"/>
+            <birth when="1888-12-26"/>
+            <death when=" 1967-04-01"/>
             <note>
-               <p> Painter </p>
+               <p> Czech ambassador to the UK </p>
             </note>
-            <ptr target="http://viaf.org/viaf/12275353"/>
-            <ptr target="https://en.wikipedia.org/wiki/Gentile_Bellini"/>
+            <ptr target="http://viaf.org/viaf/180174788"/>
+            <ptr target="https://cs.wikipedia.org/wiki/Max_Lobkowicz"/>
          </person>
-         <person xml:id="person-EH118">
-            <idno type="VIAF"> 2534316 </idno>
+         
+         <person xml:id="person-DD115">
+            <idno type="VIAF">  </idno>
+            <persName>  <forename> Aline </forename>
+               <surname> Tillard </surname>  </persName>
+           </person>
+         
+         <person xml:id="person-DD116">
+            <idno type="VIAF"> 30649289 </idno>
             <persName>
-               <forename> Frederic </forename>
-               <surname> Harrison </surname>
+               <forename> Alfred </forename>
+               <surname> Rosche </surname>
             </persName>
-            <birth when="1831-10-18"/>
-            <death when="1923-01-14"/>
+            <birth when="1884-08-02"/>
+            <death when="1947-01-31"/>
             <note>
-               <p> Jurist and historian </p>
+               <p> German lawyer, financial expert, politician (DNP, DAWG, SdP, NSDAP) and SA leader </p>
             </note>
-            <ptr target="http://viaf.org/viaf/2534316"/>
-            <ptr target="https://en.wikipedia.org/wiki/Frederic_Harrison"/>
+            <ptr target="http://viaf.org/viaf/30649289"/>
+            <ptr target="https://de.wikipedia.org/wiki/Alfred_Rosche"/>
          </person>
-         <person xml:id="person-EH119">
-            <idno type="VIAF"> 187824362 </idno>
+         
+         <person xml:id="person-DD117">
+            <idno type="VIAF"> 24647874 </idno>
             <persName>
-               <forename> Ahmed </forename>
-               <surname> Hassanein Pasha </surname>
+               <forename> Édouard </forename>
+               <surname> Daladier </surname>
             </persName>
-            <birth when="1889-10-31"/>
-            <death when="1946-02-19"/>
+            <birth when="1884-06-18"/>
+            <death when="1970-10-10"/>
             <note>
-               <p> Geographic explorer; accompanied Rosita Forbes </p>
+               <p> French Prime Minister, 1933, 1934, 1938-1940 </p>
             </note>
-            <ptr target="http://viaf.org/viaf/187824362"/>
-            <ptr target="https://en.wikipedia.org/wiki/Ahmed_Hassanein"/>
+            <ptr target="http://viaf.org/viaf/24647874"/>
+            <ptr target="https://en.wikipedia.org/wiki/%C3%89douard_Daladier"/>
          </person>
-         <person xml:id="person-EH120">
-            <idno type="VIAF"> 100164858 </idno>
+         
+         <person xml:id="person-DD118">
+            <idno type="VIAF"> 73882561 </idno>
             <persName>
-               <forename> Thomas Edward </forename>
-               <surname> Lawrence </surname>
+               <forename> Georges-Étienne  </forename>
+               <surname> Bonnet </surname>
             </persName>
-            <birth when="1888-08-16"/>
-            <death when="1935-05-19"/>
+            <birth when="1889-07-23 "/>
+            <death when="1973-06-23"/>
             <note>
-               <p> British diplomat, archaeologist, army officer and writer </p>
+               <p> French Foreign Minister, 1938-1939 </p>
             </note>
-            <ptr target="http://viaf.org/viaf/100164858"/>
-            <ptr target="https://en.wikipedia.org/wiki/T._E._Lawrence"/>
+            <ptr target="http://viaf.org/viaf/73882561"/>
+            <ptr target="https://en.wikipedia.org/wiki/Georges_Bonnet"/>
          </person>
-         <person xml:id="person-EH121">
+         
+         <person xml:id="person-DD119">
+            <idno type="VIAF"> 76325766 </idno>
             <persName>
-               <forename> George William </forename>
-               <surname> Blackwood </surname>
+               <forename> Anna Eleanor </forename>
+               <surname> Roosevelt </surname>
             </persName>
-            <death notBefore="1921-09-25"/>
+            <birth when="1884-10-11"/>
+            <death when="1962-11-07"/>
             <note>
-               <p> Publisher </p>
+               <p> American First Lady, 1933-1945 </p>
             </note>
-            <ptr target="https://en.wikipedia.org/wiki/Blackwood_(publishing_house)"/>
+            <ptr target="http://viaf.org/viaf/76325766"/>
+            <ptr target="https://en.wikipedia.org/wiki/Eleanor_Roosevelt"/>
          </person>
-         <person xml:id="person-EH122">
+         
+         <person xml:id="person-DD120">
+            <idno type="VIAF"> 90162262 </idno>
             <persName>
-               <forename> Saiyid Ja'far </forename> ' <surname> Ataifah </surname>
+               <forename> Benito Amilcare Andrea </forename>
+               <surname> Mussolini </surname>
             </persName>
-            <death notBefore="1921-09-25"/>
+            <birth when="1883-07-29"/> 
+            <death when="1945-04-28"/>
             <note>
-               <p> Mayor of Kadhimain </p>
+               <p> Italian dictator, 1922-1943 </p>
             </note>
-            <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100111165834.0x000059"/>
+            <ptr target="http://viaf.org/viaf/90162262"/>
+            <ptr target="https://en.wikipedia.org/wiki/Benito_Mussolini"/>
          </person>
-         <person xml:id="person-EH123">
-            <idno type="VIAF"> 61499085 </idno>
+         
+         <person xml:id="person-DD121">
+            <idno type="VIAF"> 13111931 </idno>
             <persName>
-               <forename> Muzahim </forename>
-               <surname> al-Pachachi </surname>
+               <forename> Archibald Henry Macdonald </forename> <surname> Sinclair </surname> , 1st Viscount Thurso, KT, CMG, PC 
             </persName>
-            <birth when="1891-09-22"/>
-            <death when="1982-09-23"/>
+            <birth when="1890-10-22"/>
+            <death when="1970-06-15"/>
             <note>
-               <p> Iraqi politician </p>
+               <p> British politician and leader of the Liberal Party, 1935-1945 </p>
             </note>
-            <ptr target="http://viaf.org/viaf/61499085"/>
-            <ptr target="https://en.wikipedia.org/wiki/Muzahim_al-Pachachi"/>
+            <ptr target="http://viaf.org/viaf/13111931"/>
+            <ptr target="https://en.wikipedia.org/wiki/Archibald_Sinclair,_1st_Viscount_Thurso"/>
          </person>
-         <person xml:id="person-EH124">
-            <idno type="VIAF"> 257401232 </idno>
-            <persName> Rauf Beg <surname> Chadirji </surname>
+         
+         <person xml:id="person-DD122">
+            <idno type="VIAF"> 36926306 </idno>
+            <persName>
+               <forename> Clement Richard </forename>
+               <surname> Attlee </surname>
             </persName>
-            <birth when="1882" notBefore="1882-01-01" notAfter="1882-12-31"/>
-            <death when="1959" notBefore="1959-01-01" notAfter="1959-12-31"/>
+            <birth when="1883-03-01"/>
+            <death when="1967-10-08"/>
             <note>
-               <p> Iraqi barrister </p>
+               <p> British politician and leader of the Labour Party, 1935-1955; British Prime Minister, 1945-1951 </p>
             </note>
-            <ptr target="http://viaf.org/viaf/257401232"/>
-            <ptr target="https://uomustansiriyah.edu.iq/web_article.php?lang=en&amp;post_id=4279:9"
-            />
+            <ptr target="http://viaf.org/viaf/36926306"/>
+            <ptr target="https://en.wikipedia.org/wiki/Clement_Attlee"/>
          </person>
-         <person xml:id="person-EH125">
-            <persName>
-               <forename> Abdullah </forename> Beg ibn Falih Pasha al-Sa'dun </persName>
-            <death notBefore="1921-09-25"/>
-            <note>
-               <p> Head of one of the branches of the Sa'dun family of Nasiriyah </p>
-            </note>
-            <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100038132680.0x000027"/>
-         </person>
-         <person xml:id="person-EH126">
-            <persName>
-               <forename> Ajil </forename> Al Yawar ibn 'Abdul 'Aziz </persName>
-            <death notBefore="1921-09-25"/>
-            <note>
-               <p> Of the Shammar tribe </p>
-            </note>
-            <ptr target="https://historicismnet.files.wordpress.com/2017/08/notes-on-mosul.pdf"/>
-         </person>
-         <person xml:id="person-EH127">
-            <idno type="VIAF"> 11213269 </idno>
-            <persName> Lieutenant Colonel <forename> Gerard Evelyn </forename>
-               <surname> Leachman </surname>
+         
+         <person xml:id="person-DD123">
+            <idno type="VIAF">  </idno>
+            <persName>  <surname>  </surname>
             </persName>
-            <birth when="1880-07-27"/>
-            <death when="1920-08-12"/>
+            <birth />
+            <death />
             <note>
-               <p> Political Officer in Mosul </p>
+               <p>  </p>
             </note>
-            <ptr target="http://viaf.org/viaf/11213269"/>
-            <ptr target="https://en.wikipedia.org/wiki/Gerard_Leachman"/>
+            <ptr />
+            <ptr />
          </person>
-         <person xml:id="person-EH128">
+         
+         <person xml:id="person-DD124">
+            <idno type="VIAF"> 4989911 </idno>
             <persName>
-               <forename> Hassan </forename>
-               <surname> Al-Suhail </surname> Shaikh </persName>
-            <birth when="1890" notBefore="1890-01-01" notAfter="1890-12-31"/>
-            <death when="1957" notBefore="1957-01-01" notAfter="1957-12-31"/>
+               <forename> Jan Garrigue </forename> <surname> Masaryk </surname> </persName>
+            <birth when="1886-09-14"/>
+            <death when="1948-03-10"/>
             <note>
-               <p> Shaikh of the Bani Tamim </p>
+               <p> Czech diplomat and politician; Foreign Minister of Czechoslovakia, 1940-1948 </p>
             </note>
-            <ptr target="https://edbs.uomustansiriyah.edu.iq/index.php/cbej/article/view/8286"/>
+            <ptr target="http://viaf.org/viaf/4989911"/>
+            <ptr target="https://en.wikipedia.org/wiki/Jan_Masaryk"/>
          </person>
-         <person xml:id="person-EH129">
+         
+         <person xml:id="person-DD125">
+            <persName>
+               <forename> Louisa Mary </forename> <surname> Anderson </surname> </persName>
+            <note>
+               <p> Sister of Hilda Runciman; nee Stevenson </p>
+            </note>
+            </person>
+         
+         <person xml:id="person-DD126">
+            <persName> Sir <forename> Kenneth Skelton </forename>
+               <surname> Anderson </surname> , 1st Baronet, KCMG
+            </persName>
+            <birth when="1866-12-21"/>
+            <death when="1942-12-09"/>
+            <note>
+               <p> Brother in law of Hilda Runciman; married to Louisa Mary Anderson </p>
+            </note>
+            <ptr target="https://en.wikipedia.org/wiki/Sir_Kenneth_Anderson,_1st_Baronet"/>
+            </person>
+         
+         <person xml:id="person-DD127">
+            <persName>
+               <forename> Hew Skelton </forename>
+               <surname> Anderson </surname>  </persName>
+           <note>
+               <p> Son of Louisa and Kenneth Anderson; nephew of Hilda Runciman </p>
+            </note>
+            </person>
+         
+         <person xml:id="person-DD128">
             <persName>
                <forename/>
             </persName>
-            <death notBefore="1921-09-25"/>
+            <death />
             <note>
-               <p> Husband of Mrs Slater; later divorced </p>
+               <p> </p>
             </note>
          </person>
-         <person xml:id="person-EH130">
+         
+         <person xml:id="person-DD129">
+            <persName> <forename> George Alexander </forename> <surname> Holmden </surname>
+             </persName>
+            <note> <p> Son-in-law of Hilda Runciman; married to Ruth Bovill </p></note>
+         </person>
+         
+         <person xml:id="person-DD130">
             <persName>
-               <surname/>
+               <forename> Phillipa Ruth </forename> <surname> Stocker </surname> </persName>
+            <note>
+               <p> Daughter of George Alexander Holmden and Ruth Bovill; granddaughter of Hilda Runciman; nee Holmden </p>
+            </note>
+            </person>
+         
+         <person xml:id="person-DD131">
+            <persName> Hon.
+               <forename> Ruth </forename>  <surname> Bovill </surname>
+            </persName>
+            <note>
+               <p> Daughter of Walter and Hilda Runciman; nee Runciman </p>
+            </note>
+            </person>
+         
+         <person xml:id="person-DD132">
+            <idno type="VIAF"> 108763944 </idno>
+            <persName>
+               <forename> Walter Garrison </forename>
+               <surname> Runciman </surname> , 3rd Viscount Runciman of Doxford
+            </persName>
+            <birth when="1934-11-10"/>
+            <death when="2020-12-10"/>
+            <note>
+               <p> British historical sociologist; son of Leslie Runciman, 2nd Viscount Runciman of Doxford, and Katherine Schuyler Garrison; grandson of Walter and Hilda Runciman </p>
+            </note>
+            <ptr target="http://viaf.org/viaf/108763944"/>
+            <ptr target="https://en.wikipedia.org/wiki/Garry_Runciman,_3rd_Viscount_Runciman_of_Doxford"/>
+         </person>
+         
+         <person xml:id="person-DD133">
+            <persName>
+               <forename>  </forename>
+               <surname>  </surname>
+            </persName>
+            <birth />
+            <death />
+            <note>
+               <p>  </p>
+            </note>
+            <ptr />
+           </person>
+         
+         <person xml:id="person-DD134">
+            <persName>
+               <forename>  </forename>
+               <surname>  </surname>
+            </persName>
+            <note>
+               <p>  </p>
+            </note>
+         </person>
+         
+         <person xml:id="person-DD135">
+            <persName>
                <forename/>
             </persName>
-         </person>
-         <person xml:id="person-EH131">
-            <persName>
-               <forename> Tahsin </forename> al-Askari </persName>
-            <death when="1948" notBefore="1948-01-01" notAfter="1948-12-31"/>
+            <death />
             <note>
-               <p> Ja'far Pasha al-Askari's brother </p>
-            </note>
-            <ptr
-               target="https://tropicsofmeta.com/2018/02/19/the-al-askari-story-how-an-iraqi-migrant-brought-soccer-to-visalia/"
-            />
-         </person>
-         <person xml:id="person-EH132">
-            <persName>
-               <forename> Ibrahim </forename> Beg <surname> Sa'dun </surname>
-            </persName>
-            <death notBefore="1921-09-25"/>
-            <note>
-               <p> Mutasarrif of the Nasiriyah region </p>
-            </note>
-            <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100111165835.0x00005f"/>
-         </person>
-         <person xml:id="person-EH133">
-            <persName>
-               <forename> Mustafa </forename>
-               <surname> Chalabi Sabunji </surname>
-            </persName>
-            <birth notBefore="1890-01-01" notAfter="1900-12-31"/>
-            <death notBefore="1945-01-01" notAfter="2000-01-01"/>
-            <note>
-               <p> Magnate from Mosul </p>
-            </note>
-            <ptr target="https://historicismnet.files.wordpress.com/2017/08/notes-on-mosul.pdf"/>
-         </person>
-         <person xml:id="person-EH134">
-            <persName>
-               <forename> Ahmed </forename>
-               <surname> Pasha al Sana </surname>
-            </persName>
-            <birth when="1860" notBefore="1860-01-01" notAfter="1860-12-31"/>
-            <death when="1930" notBefore="1930-01-01" notAfter="1930-12-31"/>
-            <note>
-               <p> Iraqi politician </p>
-            </note>
-            <ptr
-               target="https://ar.wikipedia.org/wiki/%D8%A3%D8%AD%D9%85%D8%AF_%D8%A8%D8%A7%D8%B4%D8%A7_%D8%A7%D9%84%D8%B5%D8%A7%D9%86%D8%B9"
-            />
-         </person>
-         <person xml:id="person-EH135">
-            <persName>
-               <forename> Haji Mahmud </forename>
-               <surname> Na'mah </surname>
-            </persName>
-            <note>
-               <p> Mayor of Abu al-Khaseeb district in Basra </p>
+               <p>  </p>
             </note>
          </person>
-         <person xml:id="person-EH136">
-            <persName>
-               <forename/>
-            </persName>
-            <death notBefore="1921-09-25"/>
-            <note>
-               <p> Adviser to Auqaf (Public Works) </p>
-            </note>
-         </person>
+         
          <person xml:id="person-EH137">
             <persName>
                <forename> Muhammad 'Ali Fadhil </forename>
@@ -2330,3 +2368,4 @@
       </listPerson>
    </standOff>
 </TEI>
+
