@@ -1660,6 +1660,226 @@
          </person>
          
          <person xml:id="person-DD135">
+            <persName> Admiral <forename> John Ewen </forename> <surname> Cameron </surname> , CB, MVO
+            </persName>
+            <birth when="1874-06-16"/>
+            <death when="1939-07-28"/>
+            <ptr target="https://en.wikipedia.org/wiki/John_Cameron_(Royal_Navy_officer)"/>
+         </person>
+         
+         <person xml:id="person-DD136">
+            <persName>
+               <forename>  </forename>
+               <surname>  </surname>
+            </persName>
+            <birth />
+            <death />
+            <note>
+               <p>  </p>
+            </note>
+            <ptr />
+         </person>
+         
+         <person xml:id="person-DD137">
+            <persName>
+               <forename>  </forename>
+               <surname>  </surname>
+            </persName>
+            <birth />
+            <death />
+            <note>
+               <p>  </p>
+            </note>
+            <ptr />
+         </person>
+         
+         <person xml:id="person-DD138">
+            <idno type="VIAF"> 54141216 </idno>
+            <persName>
+               <forename> William Hepburn </forename>
+               <surname> Buckler </surname> </persName>
+            <birth when="1867"/>
+            <death when="1952"/>
+            <note>
+               <p>  </p>
+            </note>
+            <ptr target="http://viaf.org/viaf/54141216"/>
+            <ptr target="https://en.wikipedia.org/wiki/William_Hepburn_Buckler"/>
+         </person>
+         
+         <person xml:id="person-DD139">
+            <idno type="VIAF">  </idno>
+            <persName>
+               <surname/>
+               <forename>  </forename>  </persName>
+            <birth />
+            <death />
+            <note>
+               <p>  </p>
+            </note>
+            <ptr target="http://viaf.org/viaf/"/>
+            <ptr />
+         </person>
+         
+         <person xml:id="person-DD140">
+            <persName> <forename> George Herbert Hyde </forename> <surname> Villiers </surname> , 6th Earl of Clarendon </persName>
+            <birth when="1877-06-07"/>
+            <death when="1955-12-13"/>
+            <note>
+               <p> British Conservative politician </p>
+            </note>
+            <ptr target="https://en.wikipedia.org/wiki/George_Villiers,_6th_Earl_of_Clarendon"/>
+         </person>
+         
+         <person xml:id="person-DD141">
+            <idno type="VIAF"> 111614353 </idno>
+            <persName> <forename> William Goodenough </forename> <surname> Hayter </surname> , KCMG </persName>
+            <birth when="1906-08-01"/>
+            <death when="1995-03-28"/>
+            <note>
+               <p> British diplomat </p>
+            </note>
+            <ptr target="http://viaf.org/viaf/111614353"/>
+            <ptr target="https://en.wikipedia.org/wiki/William_Hayter_(diplomat)"/>
+         </person>
+         
+         <person xml:id="person-DD142">
+            <idno type="VIAF">  </idno>
+            <persName>
+               <forename>  </forename>
+               <surname>  </surname>  </persName>
+            <birth />
+            <death />
+            <note>
+               <p>  </p>
+            </note>
+            <ptr target="http://viaf.org/viaf/"/>
+            <ptr />
+         </person>
+         
+         <person xml:id="person-DD143">
+            <persName>  <forename>  </forename>
+               <surname>  </surname>
+            </persName>
+            <birth />
+            <death />
+            <note>
+               <p>  </p>
+            </note>
+            <ptr />
+         </person>
+         
+         <person xml:id="person-DD144">
+            <idno type="VIAF"> 79162239 </idno>
+            <persName>
+               <forename> Victor Alexander George Robert </forename>
+               <surname> Bulwer-Lytton </surname> , 2nd Earl of Lytton </persName>
+            <birth when="1876-08-09"/>
+            <death when="1947-10-25"/>
+            <note>
+               <p> British politician </p>
+            </note>
+            <ptr target="http://viaf.org/viaf/79162239"/>
+            <ptr target="https://en.wikipedia.org/wiki/Victor_Bulwer-Lytton,_2nd_Earl_of_Lytton"/>
+         </person>
+         
+         <person xml:id="person-DD145">
+            <persName>
+               <forename> Eleanor </forename>
+               <surname> Wilson-Fox </surname>
+            </persName>
+            </person>
+         
+         <person xml:id="person-DD146">
+            <idno type="VIAF"> 191145003320061300608 </idno>
+            <persName> Sir
+               <forename> John </forename>
+               <surname> Rowlatt </surname> , KCB, KCIE, MC, QC 
+            </persName>
+            <birth when="1898-11-19"/>
+            <death when="1956-07-04"/>
+            <note>
+               <p> British lawyer </p>
+            </note>
+            <ptr target="http://viaf.org/viaf/191145003320061300608"/>
+            <ptr target="https://en.wikipedia.org/wiki/John_Rowlatt"/>
+         </person>
+         
+         <person xml:id="person-DD147">
+            <persName>
+               <forename> Janet Peace </forename>
+               <surname> Rowlatt </surname>
+            </persName>
+            <note>
+               <p> Married to Sir John Rowlatt </p>
+            </note>
+            </person>
+         
+         <person xml:id="person-DD148">
+            <idno type="VIAF"> 74650819 </idno>
+            <persName> <forename> Walter </forename> 
+            <surname> Brand  </surname>
+              </persName>
+            <birth when="1907-11-23"/>
+            <death when="1980-12-24"/>
+            <note> <p> Sudeten German politician </p> </note>
+            <ptr target="http://viaf.org/viaf/74650819"/>
+            <ptr target="https://de.wikipedia.org/wiki/Walter_Brand"/>
+         </person>
+         
+         <person xml:id="person-DD149">
+            
+            <persName> <forename> Basil </forename>  <surname> Herton </surname>
+            </persName>
+            </person>
+         
+         <person xml:id="person-DD150">
+            <idno type="VIAF"> </idno>
+            <persName>
+               <forename>  </forename>
+               <surname>  </surname>
+            </persName>
+            <birth />
+            <death />
+            <note>
+               <p> </p>
+            </note>
+            <ptr target="http://viaf.org/viaf/"/>
+            <ptr />
+         </person>
+         
+         <person xml:id="person-DD151">
+            <persName>
+               <forename>  </forename>
+               <surname>  </surname>
+            </persName>
+            <birth />
+            <death />
+            <note>
+               <p>  </p>
+            </note>
+            <ptr/>
+            </person>
+         
+         <person xml:id="person-DD152">
+            <persName/>
+            <death />
+            <note>
+               <p>  </p>
+            </note>
+         </person>
+         
+         <person xml:id="person-DD153">
+            <persName>  <surname>  </surname>  </persName>
+            <birth />
+            <death />
+            <note>
+               <p>  </p>
+            </note>
+            <ptr />
+         </person>
+         
+         <person xml:id="person-DD154">
             <persName>
                <forename/>
             </persName>
@@ -1669,265 +1889,66 @@
             </note>
          </person>
          
-         <person xml:id="person-EH137">
+         <person xml:id="person-DD155">
             <persName>
-               <forename> Muhammad 'Ali Fadhil </forename>
-               <surname> Effendi </surname>
-            </persName>
-            <birth when="1850" notBefore="1845-01-01" notAfter="1855-12-31"/>
-            <death notBefore="1921-09-25" notAfter="1955-12-31"/>
-            <note>
-               <p> Minster of Auqaf (Public Works) and acting Mayor of Mosul </p>
-            </note>
-            <ptr target="https://historicismnet.files.wordpress.com/2017/08/notes-on-mosul.pdf"/>
-         </person>
-         <person xml:id="person-EH139">
-            <persName>
-               <forename> Abdul Karim </forename>
-               <surname> Effendi </surname>
-            </persName>
-            <birth when="1895" notBefore="1890-01-01" notAfter="1900-12-31"/>
-            <death notBefore="1921-09-25" notAfter="2000-01-01"/>
-            <note>
-               <p> Naqib of Mosul </p>
-            </note>
-            <ptr target="https://historicismnet.files.wordpress.com/2017/08/notes-on-mosul.pdf"/>
-         </person>
-         <person xml:id="person-EH140">
-            <persName>
-               <forename> Ahmad Effendi </forename>
-               <surname> Ibn Mahmud Effendi </surname> , Saiyid. </persName>
-            <birth when="1865" notBefore="1860-01-01" notAfter="1870-12-31"/>
-            <death notBefore="1921-09-25" notAfter="1970-01-01"/>
-            <note>
-               <p> Qadhi of Mosul </p>
-            </note>
-            <ptr target="https://historicismnet.files.wordpress.com/2017/08/notes-on-mosul.pdf"/>
-         </person>
-         <person xml:id="person-EH141">
-            <idno type="VIAF"> 63984707 </idno>
-            <persName>
-               <surname/>
-               <forename> Timur </forename> , Amir of the Timurid Empire </persName>
-            <birth when="1370-04-09"/>
-            <death when="1405-02-14"/>
-            <note>
-               <p> Amir of the Timrud Empire </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/63984707"/>
-            <ptr target="https://en.wikipedia.org/wiki/Timur"/>
-         </person>
-         <person xml:id="person-EH142">
-            <persName/>
-            <death notBefore="1921-09-25"/>
-            <note>
-               <p> Mutasarrif of 'Amara </p>
-            </note>
-         </person>
-         <person xml:id="person-EH143">
-            <persName/>
-            <death notBefore="1921-09-25"/>
-            <note>
-               <p> Nephew of Salih Basha'yan </p>
-            </note>
-         </person>
-         <person xml:id="person-EH144">
-            <idno type="VIAF"> 198144782720023761199 </idno>
-            <persName>
-               <forename> Mar Eshai </forename>
-               <surname> Shimun </surname> XXIII </persName>
-            <birth when="1908-02-26"/>
-            <death when="1975-11-06"/>
-            <note>
-               <p> Catholicos-Patriarch of the Assyrian Church of the East </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/198144782720023761199"/>
-            <ptr target="https://en.wikipedia.org/wiki/Shimun_XXIII_Eshai"/>
-         </person>
-         <person xml:id="person-EH145">
-            <persName> Mir <forename> Sa'id </forename>
-               <surname> Beg </surname>
-            </persName>
-            <birth when="1901" notBefore="1900-01-01" notAfter="1903-12-31"/>
-            <death when="1944" notBefore="1944-01-01" notAfter="1944-12-31"/>
-            <note>
-               <p> Later hereditary leader (Mir) of the Yazidis </p>
-            </note>
-            <ptr target="https://en.wikipedia.org/wiki/Tahseen_Said"/>
-         </person>
-         <person xml:id="person-EH146">
-            <persName>
-               <forename> Nuri </forename>
-               <surname> ibn Shaikh Abdul Jabbar </surname> of Brifka, Shaikh </persName>
-            <birth when="1870" notBefore="1865-01-01" notAfter="1875-12-31"/>
-            <death notBefore="1921-09-25" notAfter="1975-12-31"/>
-            <note>
-               <p> Shaikh of Brifka </p>
-            </note>
-            <ptr target="https://historicismnet.files.wordpress.com/2017/08/notes-on-mosul.pdf"/>
-         </person>
-         <person xml:id="person-EH147">
-            <persName>
-               <forename> Qadir Agha </forename>
-               <surname> ibn 'Usman Agha </surname>
-            </persName>
-            <birth when="1895" notBefore="1890-01-01" notAfter="1900-12-31"/>
-            <death notBefore="1921-09-25" notAfter="2000-01-01"/>
-            <note>
-               <p> Zibari Agha of Shush </p>
-            </note>
-            <ptr target="https://historicismnet.files.wordpress.com/2017/08/notes-on-mosul.pdf"/>
-         </person>
-         <person xml:id="person-EH148">
-            <persName>
-               <forename> Muhammad </forename>
-               <surname> Agha </surname>
-            </persName>
-            <birth when="1874" notBefore="1874-01-01" notAfter="1874-12-31"/>
-            <death when="1924-07-22"/>
-            <note>
-               <p> Mayor of Zakho </p>
-            </note>
-            <ptr target="https://www.kurdipedia.org/default.aspx?q=20230528182445494331&amp;lng=7"/>
-         </person>
-         <person xml:id="person-EH149">
-            <persName>
-               <forename> Mawlud </forename>
-               <surname> Mukhlis </surname>
-            </persName>
-            <birth when="1886" notBefore="1886-01-01" notAfter="1886-12-31"/>
-            <death when="1951" notBefore="1951-01-01" notAfter="1951-12-31"/>
-            <note>
-               <p> Participant in the 1920 Arab revolt </p>
-            </note>
-            <ptr target="https://en.wikipedia.org/wiki/Mawlud_Mukhlis"/>
-         </person>
-         <person xml:id="person-EH150">
-            <persName>
-               <surname/>
-               <forename/> Hamdi Pachahji </persName>
-            <death notBefore="1921-09-25"/>
-         </person>
-         <person xml:id="person-EH151">
-            <idno type="VIAF"> 66628235 </idno>
-            <persName> Clementine <surname> Churchill </surname>
-            </persName>
-            <birth when="1885-04-01"/>
-            <death when="1977-12-12"/>
-            <note>
-               <p> Wife of Sir Winston Churchill </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/66628235"/>
-            <ptr target="https://en.wikipedia.org/wiki/Clementine_Churchill"/>
-         </person>
-         <person xml:id="person-EH152">
-            <idno type="VIAF"> 51820976 </idno>
-            <persName>
-               <forename> David George </forename>
-               <surname> Hogarth </surname>
-            </persName>
-            <birth when="1862-05-23"/>
-            <death when="1927-11-06"/>
-            <note>
-               <p> British archaeologist and scholar, associated with T. E. Lawrence </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/51820976"/>
-            <ptr target="https://en.wikipedia.org/wiki/David_George_Hogarth"/>
-         </person>
-         <person xml:id="person-EH153">
-            <persName>
-               <forename> Taufiq </forename>
-               <surname> al Khalid </surname>
-            </persName>
-            <birth notBefore="1830-01-01" notAfter="1902-12-31"/>
-            <death when="1924" notBefore="1924-01-01" notAfter="1924-12-31"/>
-            <note>
-               <p> Iraqi politician </p>
-            </note>
-            <ptr
-               target="https://archive.globalpolicy.org/component/content/article/169-history/48076-the-queen-of-quagmire.html"
-            />
-         </person>
-         <person xml:id="person-EH154">
-            <persName/>
-            <death notBefore="1921-09-25"/>
-            <note>
-               <p> Treasurer to King Faisal's household </p>
-            </note>
-         </person>
-         <person xml:id="person-EH155">
-            <persName> Major General Nihat <surname> Pasha </surname> Anılmış </persName>
-            <birth when="1878" notBefore="1876-01-01" notAfter="1878-12-31"/>
-            <death when="1954-05-31"/>
-            <note>
-               <p> Ottoman Commander of the Second Army (Turkey) </p>
-            </note>
-            <ptr target="http://turkeyswar.com/whoswho/nihat-pasha-anilmis/"/>
-         </person>
-         <person xml:id="person-EH156">
-            <persName>
-               <forename/>
-            </persName>
-            <death notBefore="1921-09-25"/>
-            <note>
-               <p> French Consul in Iraq </p>
-            </note>
-         </person>
-         <person xml:id="person-EH157">
-            <persName>
-               <forename> Abdullah </forename>
-               <surname> Dulaimi </surname>
+               <forename>  </forename>
+               <surname>  </surname>
             </persName>
             <note>
-               <p> Supporter of King Faisal </p>
+               <p>  </p>
             </note>
          </person>
-         <person xml:id="person-EH158">
-            <idno type="VIAF"> 4977152932553609830000 </idno>
+         
+         <person xml:id="person-DD156">
+            <idno type="VIAF">  </idno>
             <persName>
-               <forename> Ali </forename>
-               <surname> Jawdat Al-Ayyubi </surname>
+               <forename>  </forename>
+               <surname>  </surname>
             </persName>
-            <birth when="1886-11-11"/>
-            <death when="1969-03-03"/>
+            <birth />
+            <death />
             <note>
-               <p> Iraqi Politician </p>
+               <p> </p>
             </note>
-            <ptr target="http://viaf.org/viaf/4977152932553609830000"/>
-            <ptr target="https://en.wikipedia.org/wiki/Ali_Jawdat_Al-Ayyubi"/>
+            <ptr target="http://viaf.org/viaf/"/>
+            <ptr />
          </person>
-         <person xml:id="person-EH159">
-            <idno type="VIAF"> 43991371 </idno>
+         
+         <person xml:id="person-DD157">
+            <idno type="VIAF">  </idno>
             <persName>
-               <forename> Frederick Philip Lewis </forename>
-               <surname> Cunliffe Owen </surname>
+               <forename>  </forename>
+               <surname>  </surname>
             </persName>
-            <birth when="1855-01-30"/>
-            <death when="1926-06-30"/>
+            <birth />
+            <death />
             <note>
-               <p> British diplomat and writer </p>
+               <p>  </p>
             </note>
-            <ptr target="http://viaf.org/viaf/43991371"/>
-            <ptr target="https://en.wikipedia.org/wiki/Frederick_Cunliffe-Owen"/>
+            <ptr target="http://viaf.org/viaf/"/>
+            <ptr />
          </person>
-         <person xml:id="person-EH160">
-            <idno type="VIAF"> 18584203 </idno>
-            <persName> Marguerite <surname> Cunliffe Owen </surname>
+         
+         <person xml:id="person-DD158">
+            <idno type="VIAF">  </idno>
+            <persName>  <surname>  </surname>
             </persName>
-            <birth when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
-            <death when="1927" notBefore="1927-01-01" notAfter="1927-12-31"/>
+            <birth />
+            <death />
             <note>
-               <p> Second wife of Frederick Cunliffe Owen </p>
+               <p>  </p>
             </note>
-            <ptr target="http://viaf.org/viaf/18584203"/>
-            <ptr target="https://en.wikipedia.org/wiki/Marguerite_Cunliffe-Owen"/>
+            <ptr target="http://viaf.org/viaf/"/>
+            <ptr />
          </person>
-         <person xml:id="person-EH161">
+         
+         <person xml:id="person-DD159">
             <persName>
                <surname/>
                <forename/>
             </persName>
          </person>
+         
          <person xml:id="person-EH162">
             <idno type="VIAF"> 89661385 </idno>
             <persName>
@@ -2368,4 +2389,6 @@
       </listPerson>
    </standOff>
 </TEI>
+
+
 
