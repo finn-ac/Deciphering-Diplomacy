@@ -54,17 +54,17 @@
             <ptr target="http://viaf.org/viaf/22318481"/>
             <ptr target="https://en.wikipedia.org/wiki/Neville_Chamberlain"/>
          </person>
+         
          <person xml:id="person-DD004">
             <idno type="VIAF"> </idno>
-            <persName> Ermine Mary Katherine <surname> Murray </surname> ,Viscountess Elibank </persName>
-
-
+            <persName> Ermine Mary Katherine <surname> Murray </surname> ,Viscountess Elibank </persName> 
             <note> Married to Gideon Oliphant-Murray, 2nd Viscount Elibank (7 August 1877 – 12 March
-               1951), Scottish colonial administrator, politician and nobleman <p> </p>
+               1951), Scottish colonial administrator, politician and nobleman. Formerly Aspinwall, nee Madocks. <p> </p>
             </note>
-            <ptr target="https://en.wikipedia.org/wiki/Gideon_Oliphant-Murray,_2nd_Viscount_Elibank"
+            <ptr target="https://www.thepeerage.com/p23375.htm#i233748"
             />
          </person>
+         
          <person xml:id="person-DD005">
             <idno type="VIAF"> </idno>
             <persName>
@@ -183,16 +183,15 @@
          </person>
          
          <person xml:id="person-DD014">
-            <persName>
-               <forename> </forename>
+            <persName> Hon.
+               <forename> Francis Nathaniel </forename> <surname> Curzon </surname>
             </persName>
-            <birth/>
-            <death/>
+            <birth when="1865-12-15"/>
+            <death when="1941-06-08"/>
             <note>
-               <p> </p>
+               <p> British banker </p>
             </note>
-            <ptr target="http://viaf.org/viaf/"/>
-            <ptr target="https"/>
+            <ptr target="https://www.thepeerage.com/p7216.htm#i72157"/>
          </person>
          
          <person xml:id="person-DD015">
@@ -258,16 +257,16 @@
          </person>
          
          <person xml:id="person-DD020">
-            <idno type="VIAF">  </idno>
-            <persName>  </persName>
-            <birth />
-            <death />
+            <idno type="VIAF"> 27094651 </idno>
+            <persName> <forename> George Nathaniel </forename> <surname> Curzon </surname> , 1st Marquess Curzon of Kedleston </persName>
+            <birth when="1859-01-11"></birth>
+            <death when="1925-03-20"></death>
             <note>
-               <p> 
+               <p> British politician
                </p>
             </note>
-            <ptr target="http://viaf.org/viaf/"/>
-            <ptr target="http"/>
+            <ptr target="http://viaf.org/viaf/27094651"/>
+            <ptr target="https://en.wikipedia.org/wiki/George_Curzon,_1st_Marquess_Curzon_of_Kedleston"/>
          </person>
          
          <person xml:id="person-DD021">
@@ -601,12 +600,12 @@
                <forename> Ian Leslie </forename>
                <surname> Henderson </surname>
             </persName>
-            <birth when="1901"/>
-            <death when="1971"/>
+            <birth when="1901-07-06"/>
+            <death when="1971-05-11"/>
             <note>
                <p> British diplomat and Commercial Counsellor, Czechoslovakia 1946-1949 </p>
             </note>
-            <ptr target="https://www.wikidata.org/wiki/Q57834028"/>
+            <ptr target="https://en.wikipedia.org/wiki/Ian_Henderson_(diplomat)"/>
          </person>
          
          <person xml:id="person-DD048">
@@ -1732,41 +1731,36 @@
          </person>
          
          <person xml:id="person-DD141">
-            <idno type="VIAF"> 111614353 </idno>
-            <persName> <forename> William Goodenough </forename> <surname> Hayter </surname> , KCMG </persName>
-            <birth when="1906-08-01"/>
-            <death when="1995-03-28"/>
+            <persName> <forename> George Hayter </forename> <surname> Chubb </surname> , 1st Baron Hayter </persName>
+            <birth when="1848-08-29"/>
+            <death when="1946-11-07"/>
             <note>
-               <p> British diplomat </p>
+               <p> British businessman </p>
             </note>
-            <ptr target="http://viaf.org/viaf/111614353"/>
-            <ptr target="https://en.wikipedia.org/wiki/William_Hayter_(diplomat)"/>
+            <ptr target="https://en.wikipedia.org/wiki/George_Chubb,_1st_Baron_Hayter"/>
          </person>
          
          <person xml:id="person-DD142">
-            <idno type="VIAF">  </idno>
-            <persName>
-               <forename>  </forename>
-               <surname>  </surname>  </persName>
-            <birth />
-            <death />
+            <persName> Lady
+               <forename> Helen Millicent </forename>
+               <surname> Vincent </surname>  </persName>
+            <birth when="1905" />
+            <death when="2000" />
             <note>
-               <p>  </p>
+               <p> Nee Robertson </p>
             </note>
-            <ptr target="http://viaf.org/viaf/"/>
-            <ptr />
+            <ptr target="https://www.npg.org.uk/collections/search/person/mp100486/helen-millicent-nee-robertson-lady-vincent" />
          </person>
          
          <person xml:id="person-DD143">
-            <persName>  <forename>  </forename>
-               <surname>  </surname>
+            <persName>  <forename> Mildred Adelaide </forename>
+               <surname> Robertson </surname>
             </persName>
-            <birth />
-            <death />
+            <death when="1942-05-18" />
             <note>
-               <p>  </p>
+               <p> Nee Palin </p>
             </note>
-            <ptr />
+            <ptr target="https://www.thepeerage.com/p56013.htm#i560125" />
          </person>
          
          <person xml:id="person-DD144">
@@ -2558,7 +2552,86 @@
             <ptr target="https://en.wikipedia.org/wiki/Archduke_Franz_Ferdinand_of_Austria"/>
          </person>
          
-            
+          <person xml:id="person-DD219">
+             <idno type="VIAF"> 165455685 </idno>
+             <persName> <forename> Gideon Oliphant </forename> <surname> Murray </surname> , 2nd Viscount Elibank </persName>
+             <birth when="1877-08-07"/>
+             <death when="1951-03-12"/>
+             <note> <p> Scottish politician </p></note>  
+             <ptr target="http://viaf.org/viaf/165455685"/>
+             <ptr target="https://en.wikipedia.org/wiki/Gideon_Oliphant-Murray,_2nd_Viscount_Elibank"/> 
+          </person>
+         
+         <person xml:id="person-DD223">
+            <persName> Dr <forename> Charles </forename> <surname> Bruggmann </surname> </persName>
+            <birth when="1889"></birth>
+            <death when="1967"></death>
+            <note> <p> Swiss Minister to the United States, 1939-1954 </p> </note>
+            <ptr target="https://www.nytimes.com/1967/09/17/archives/dr-charles-bruggmann-dies-former-swiss-envoy-to-us.html"/>
+         </person>
+         
+         <person xml:id="person-DD225">
+            <idno type="VIAF"> 32787948 </idno>
+            <persName> Emperor <forename> Franz Josef </forename> I </persName>
+            <birth when="1830-08-18"></birth>
+            <death when="1916-11-21"></death>
+            <note> <p> Emperor of Austria and King of Hungary </p> </note>
+            <ptr target="http://viaf.org/viaf/32787948"/>
+            <ptr target="https://en.wikipedia.org/wiki/Franz_Joseph_I"/>
+         </person>
+         
+         <person xml:id="person-DD226">
+            <persName> <forename> Phyllis Mary </forename> <surname> Henderson </surname> </persName>
+            <note> <p>  Married to Sir Ian Leslie Henderson </p> </note>
+         </person>
+         
+         <person xml:id="person-DD228">
+            <idno type="VIAF"> 308233909 </idno>
+            <persName> <forename> Herbrand Edward Dundonald Brassey </forename> <surname> Sackville </surname> , 9th Earl De La Warr, GBE, PC, JP, DL </persName>
+            <birth when="1900-06-20"></birth>
+            <death when="1976-01-28"></death>
+            <note> <p> British politician </p> </note>
+            <ptr target="http://viaf.org/viaf/308233909"/>
+            <ptr target="https://en.wikipedia.org/wiki/Herbrand_Sackville,_9th_Earl_De_La_Warr"/>
+         </person>
+         
+         <person xml:id="person-DD232">
+            <persName> <forename> Josef Graf </forename> <surname> von Ledebur-Wicheln </surname> </persName>
+            <birth when="1899-02-13"></birth>
+            <death when="1963-12-08"></death>
+            <ptr target="https://www.thepeerage.com/p9932.htm"/>
+         </person>
+         
+         <person xml:id="person-DD233">
+            <idno type="VIAF"> 71577743 </idno>
+            <persName> <forename> Antonín Leopold </forename> <surname> Dvořák </surname> </persName>
+            <birth when="1841-09-08"></birth>
+            <death when="1904-05-01"></death>
+            <note> <p> Czech composer </p> </note>
+            <ptr target="http://viaf.org/viaf/71577743"/>
+            <ptr target="https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k"/>
+         </person>
+         
+         <person xml:id="person-DD234">
+            <idno type="VIAF"> 60326614 </idno>
+            <persName> <forename> Sergei Vasilyevich  </forename> <surname> Rachmaninoff </surname> </persName>
+            <birth when="1872-04-01"></birth>
+            <death when="1943-03-28"></death>
+            <note> <p> Russian pianist and composer </p> </note>
+            <ptr target="http://viaf.org/viaf/60326614"/>
+            <ptr target="https://en.wikipedia.org/wiki/Sergei_Rachmaninof"/>
+         </person>
+         
+         <person xml:id="person-DD235">
+            <idno type="VIAF"> 89801735 </idno>
+            <persName> <forename> Ralph Vaughan </forename> <surname> Williams </surname> </persName>
+            <birth when="1872-10-12"></birth>
+            <death when="1958-08-26"></death>
+            <note> <p> English composer </p> </note>
+            <ptr target="http://viaf.org/viaf/89801735"/>
+            <ptr target="https://en.wikipedia.org/wiki/Ralph_Vaughan_Williams"/>
+         </person>
+         
         </listPerson>
    </standOff>
 </TEI>
