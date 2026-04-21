@@ -143,43 +143,31 @@
          </person>
          
          <person xml:id="person-DD011">
-            <idno type="VIAF"> </idno>
-            <persName>
-               <surname>  </surname>
+            <persName> the Louis Greigs
             </persName>
-            <birth/>
-            <death/>
-            <note>
-               <p> </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/"/>
-            <ptr target="http"/>
+            <ptr sameAs="#person-DD012"/>
+            <ptr sameAs="#person-DD013"/>
          </person>
          
          <person xml:id="person-DD012">
-            <idno type="VIAF"> </idno>
-            <persName> </persName>
-            <birth/>
-            <death/>
+            <idno type="VIAF"> 5809818 </idno>
+            <persName> Group Captain Sir <forename> Louis Leisler </forename> <surname> Greig </surname> , KBE CVO </persName>
+            <birth when="1880-11-17"/>
+            <death when="1953-03-01"/>
             <note>
-               <p> </p>
+               <p> Scottish naval surgeon, rugby and tennis player, courtier </p>
             </note>
-            <ptr target="http://viaf.org/viaf/"/>
-            <ptr target="http"/>
+            <ptr target="http://viaf.org/viaf/5809818"/>
+            <ptr target="https://en.wikipedia.org/wiki/Louis_Greig"/>
          </person>
          
          <person xml:id="person-DD013">
-            <idno type="VIAF"> </idno>
             <persName>
-               <forename> </forename>
-               <surname> </surname> , </persName>
-            <birth/>
-            <death/>
+               <forename> Phyllis </forename>
+               <surname> Greig </surname> </persName>
             <note>
-               <p> </p>
+               <p> Formerly Phyllis Scrimgeour; married to Louis Leisler Greig </p>
             </note>
-            <ptr target="http://viaf.org/viaf/"/>
-            <ptr target="http"/>
          </person>
          
          <person xml:id="person-DD014">
@@ -195,41 +183,32 @@
          </person>
          
          <person xml:id="person-DD015">
-            <persName>
-               <forename> </forename>
-               <surname> </surname>
+            <persName> the Camroses
             </persName>
-            <birth/>
-            <death/>
-            <note>
-               <p> </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/"/>
-            <ptr target="http"/>
+            <ptr sameAs="#person-DD016"/>
+            <ptr sameAs="#person-DD017"/>
          </person>
          
          <person xml:id="person-DD016">
-            <idno type="VIAF"> </idno>
-            <persName> </persName>
-            <birth/>
-            <death/>
+            <idno type="VIAF"> 88676202 </idno>
+            <persName> <forename> William Ewart </forename> <surname> Berry </surname> , 1st Viscount Camrose </persName>
+            <birth when="1879-06-23"/>
+            <death when="1954-06-15"/>
             <note>
-               <p> </p>
+               <p> British peer and newspaper editor </p>
             </note>
-            <ptr target="http://viaf.org/viaf/5"/>
-            <ptr target="http"/>
+            <ptr target="http://viaf.org/viaf/88676202"/>
+            <ptr target="https://en.wikipedia.org/wiki/William_Berry,_1st_Viscount_Camrose"/>
          </person>
          
          <person xml:id="person-DD017">
-            <idno type="VIAF"> </idno>
-            <persName> </persName>
-            <birth/>
-            <death/>
+            <persName> <forename> Mary Agnes Corns </forename> <surname> Berry </surname> , Viscountess Camrose </persName>
+            <birth when="1882-12-12"/>
+            <death when="1962-10-09"/>
             <note>
-               <p> </p>
+               <p> Formerly Mary Agnes Corns; Married to William Ewart Berry, 1st Viscount Camrose </p>
             </note>
-            <ptr target="http://viaf.org/viaf/"/>
-            <ptr target="http"/>
+            <ptr target="https://www.thepeerage.com/p4517.htm#i45164"/>
          </person>
          
          <person xml:id="person-DD018">
@@ -245,44 +224,35 @@
          </person>
 
          <person xml:id="person-DD019">
-            <idno type="VIAF">  </idno>
-            <persName>  <forename>  </forename>
-               <surname>  </surname>  </persName>
-            <birth/>
-            <death/>
-            <note>
-               <p>  </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/"/>
+            <persName> the Vincent Baddeleys 
+            </persName>
+            <ptr sameAs="#person-DD020" />
+            <ptr sameAs="#person-DD021"/>
          </person>
          
          <person xml:id="person-DD020">
-            <idno type="VIAF"> 27094651 </idno>
-            <persName> <forename> George Nathaniel </forename> <surname> Curzon </surname> , 1st Marquess Curzon of Kedleston </persName>
-            <birth when="1859-01-11"></birth>
-            <death when="1925-03-20"></death>
+            <idno type="VIAF">  </idno>
+            <persName> Sir <forename> Vincent Wilberforce </forename> <surname> Baddeley </surname> KBC </persName>
+            <birth when="1874-09-24"></birth>
+            <death when="1961-07-25"></death>
             <note>
-               <p> British politician
+               <p> British civil servant
                </p>
             </note>
-            <ptr target="http://viaf.org/viaf/27094651"/>
-            <ptr target="https://en.wikipedia.org/wiki/George_Curzon,_1st_Marquess_Curzon_of_Kedleston"/>
-         </person>
+            <ptr target="https://en.wikipedia.org/wiki/Vincent_Baddeley"/>
+            </person>
          
          <person xml:id="person-DD021">
-            <idno type="VIAF">  </idno>
             <persName>
-               <forename> </forename>
-               <surname> </surname>
+               <forename> Katharine Angela Thynne </forename>
+               <surname> Baddeley </surname> MBE
             </persName>
-            <birth />
-            <death/>
-            <note>
-               <p>  </p>
+            <birth when="1893-04-20"></birth>
+           <note>
+               <p> Formerly Katharine Angela Thynne; married to Vincent Wilberforce Baddeley </p>
             </note>
-            <ptr target="http://viaf.org/viaf/"/>
-            <ptr target="http"/>
-         </person>
+            <ptr target="https://www.thepeerage.com/p11802.htm"/>
+            </person>
          
          <person xml:id="person-DD022">
             <idno type="VIAF"> 56618205 </idno>
@@ -449,13 +419,10 @@
              </person>
          
          <person xml:id="person-DD035">
-            <persName>
-               <surname/>
-               <forename/>
+            <persName> the Petos
             </persName>
-            <note>
-               <p> </p>
-            </note>
+            <ptr sameAs="#person-DD033"/>
+            <ptr sameAs="#person-DD034"/>
          </person>
          
          <person xml:id="person-DD036">
@@ -521,24 +488,21 @@
          
          <person xml:id="person-DD041">
             <persName>
-               <forename>  </forename>
-               <surname>  </surname>
+               <forename> Muriel Mary Georgina </forename>
+               <surname> Duke </surname>
             </persName>
+            <birth when="1888"></birth>
+            <death when="1953"></death>
             <note>
-               <p>  </p>
+               <p> Married to George Douglas Cochrane, 1st Baron Eltisley </p>
             </note>
          </person>
          
          <person xml:id="person-DD042">
-            <persName>  <forename> </forename>
-               <surname>  </surname>
+            <persName> the Eltisleys 
             </persName>
-            <birth/>
-            <death/>
-            <note>
-               <p>  </p>
-            </note>
-            <ptr/>
+            <ptr sameAs="#person-DD040"/>
+            <ptr sameAs="#person-DD041"/>
          </person>
          
          <person xml:id="person-DD043">
@@ -876,14 +840,9 @@
          </person>
          
          <person xml:id="person-DD069">
-            <persName>
-               <forename>  </forename>  <surname>  </surname>
+            <persName> the Clarys
             </persName>
-            <birth />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr />
+            <ptr sameAs="#person-DD068"/>
          </person>
          
          <person xml:id="person-DD070">
@@ -1098,43 +1057,38 @@
          </person>
          
          <person xml:id="person-DD088">
-            <idno type="VIAF">  </idno>
-            <persName>  <forename>  </forename>
-               <surname>  </surname>
+            <persName> the Colerado Mansfields
             </persName>
-            <birth />
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr />
-            <ptr />
+            <ptr sameAs="#person-DD089">
+            </ptr>
+            <ptr sameAs="#person-DD090"/>
          </person>
          
          <person xml:id="person-DD089">
+            <idno type="VIAF"> 310605918 </idno>
             <persName>
-               <forename>  </forename>
-               <surname>  </surname>
+               <forename> Joseph Hieronymus Rudolph Ferdinand Franz Maria Fürst </forename>
+               <surname> von Colloredo-Mannsfeld </surname>
             </persName>
-            <birth />
-            <death />
+            <birth when="1866-02-17"/>
+            <death when="1957-02-21"/>
             <note>
-               <p>  </p>
+               <p> Czech nobleman, Austrian politician and diplomat; known as Joseph II. Colloredo-Mannsfeld </p>
             </note>
-            <ptr />
+            <ptr target="http://viaf.org/viaf/310605918"/>
+            <ptr target="https://cs.wikipedia.org/wiki/Josef_II._Colloredo-Mannsfeld#Rodina"/>
          </person>
          
          <person xml:id="person-DD090">
             <persName>
-               <forename>  </forename>
-               <surname>  </surname>
+               <forename> Marie Sidonia </forename>
+               <surname> de Smit </surname>
             </persName>
-            <birth />
-            <death />
+            <birth when="1877-07-10" />
+            <death when="1973-05-30" />
             <note>
-               <p>  </p>
+               <p> Married to Joseph II Colloredo-Mansfeld </p>
             </note>
-            <ptr/>
           </person>
          
          <person xml:id="person-DD091">
@@ -1224,29 +1178,35 @@
             </person>
          
          <person xml:id="person-DD098">
-            <persName>
-               <forename>  </forename>  <surname>  </surname> </persName>
-            <birth />
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr />
+            <persName> the Lindbergs
+            </persName>
+            <ptr sameAs="#person-DD099" />
+            <ptr sameAs="#person-DD100"/>
          </person>
          
          <person xml:id="person-DD099">
-            <persName/>
+            <idno type="VIAF"> 17265891 </idno>
+            <persName> <forename> Charles Augustus </forename> <surname> Lindbergh </surname></persName>
+            <birth when="1902-02-04"></birth>
+            <death when=" 1974-08-26"></death>
+            <note><p> American aviator </p></note>
+            <ptr target="http://viaf.org/viaf/17265891"/>
+            <ptr target="https://en.wikipedia.org/wiki/Charles_Lindbergh"/>
          </person>
          
          <person xml:id="person-DD100">
+            <idno type="VIAF"> 73882906 </idno>
             <persName>
-               <forename>  </forename>
-               <surname>  </surname>
+               <forename> Anne Spencer Morrow </forename>
+               <surname> Lindbergh </surname>
             </persName>
+            <birth when="1906-06-22"></birth>
+            <death when="2001-02-07"></death>
             <note>
-               <p>  </p>
+               <p> American aviator and writer </p>
             </note>
-            <ptr />
+            <ptr target="http://viaf.org/viaf/73882906"/>
+            <ptr target="https://en.wikipedia.org/wiki/Anne_Morrow_Lindbergh"/>
          </person>
          
          <person xml:id="person-DD101">
@@ -1828,58 +1788,52 @@
             </person>
          
          <person xml:id="person-DD150">
-            <idno type="VIAF"> </idno>
+            <idno type="VIAF"> 24729680 </idno>
             <persName>
-               <forename>  </forename>
-               <surname>  </surname>
+               <forename> Marie Belloc </forename>
+               <surname> Lowndes </surname>
             </persName>
-            <birth />
-            <death />
+            <birth when="1868-08-05"/>
+            <death when="1947-11-14"/>
             <note>
-               <p> </p>
+               <p> Author </p>
             </note>
-            <ptr target="http://viaf.org/viaf/"/>
-            <ptr />
+            <ptr target="http://viaf.org/viaf/24729680"/>
+            <ptr target="https://en.wikipedia.org/wiki/Marie_Belloc_Lowndes"/>
          </person>
          
          <person xml:id="person-DD151">
-            <persName>
-               <forename>  </forename>
-               <surname>  </surname>
+            <persName> Mrs B. Lowndes
             </persName>
-            <birth />
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr/>
+            <ptr sameAs="#person-DD150"/>
             </person>
          
          <person xml:id="person-DD152">
-            <persName/>
-            <death />
-            <note>
-               <p>  </p>
-            </note>
+            <persName> Sir Fred and Lady Maurice </persName>
+            <ptr sameAs="#person-DD153"/>
+            <ptr sameAs="#person-DD154"/>
          </person>
          
          <person xml:id="person-DD153">
-            <persName>  <surname>  </surname>  </persName>
-            <birth />
-            <death />
+            <idno type="VIAF"> 27462742 </idno>
+            <persName> Major-General Sir <forename> Frederick Barton </forename> <surname> Maurice </surname> , KCMG, CB </persName>
+            <birth when="1871-01-19" />
+            <death when="1951-05-19" />
             <note>
-               <p>  </p>
+               <p> British Army officer, military correspondent, writer and academic </p>
             </note>
-            <ptr />
+            <ptr target="http://viaf.org/viaf/27462742"/>
+            <ptr target="https://en.wikipedia.org/wiki/Frederick_Maurice_(military_historian)"/>
          </person>
          
          <person xml:id="person-DD154">
             <persName>
-               <forename/>
+               <forename/> Margaret Helen <surname> Marsh </surname>
             </persName>
-            <death />
+            <birth when="1874"></birth>
+            <death when="1942"/>
             <note>
-               <p>  </p>
+               <p> Married to Major-General Sir Frederick Barton Maurice </p>
             </note>
          </person>
          
@@ -1993,40 +1947,34 @@
          </person>
          
          <person xml:id="person-DD164">
-            <persName>
-               <forename>  </forename>
-               <surname>  </surname>
-            </persName>
-            <birth />
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr />
+            <persName> the Hailshams </persName>
+            <ptr sameAs="#person-DD165" />
+            <ptr sameAs="#person-DD166"/>
          </person>
          
          <person xml:id="person-DD165">
+            <idno type="VIAF"> 46090086 </idno>
             <persName>
-               <forename>  </forename>  <surname>  </surname>
+               <forename> Douglas McGarel </forename> <surname> Hogg </surname> , 1st Viscount Hailsham, PC
             </persName>
-            <death />
+            <birth when="1872-02-28"></birth>
+            <death when="1950-08-16"/>
             <note>
-               <p>  </p>
+               <p> British lawyer and politician </p>
             </note>
-            <ptr />
+            <ptr target="http://viaf.org/viaf/46090086"/>
+            <ptr target="https://en.wikipedia.org/wiki/Douglas_Hogg,_1st_Viscount_Hailsham"/>
          </person>
          
          <person xml:id="person-DD166">
             <persName>
-               <forename>  </forename>
-               <surname>  </surname>
+               <forename> Mildred Margaret </forename>
+               <surname> Hogg </surname>
             </persName>
-            <death />
             <note>
-               <p> P </p>
+               <p> Married to Douglas McGarel Hogg, 1st Viscount Hailsham </p>
             </note>
-            <ptr/>
-            </person>
+           </person>
          
          <person xml:id="person-DD167">
             <idno type="VIAF">  </idno>
@@ -2331,42 +2279,35 @@
             </person>
          
          <person xml:id="person-DD191">
-            <idno type="VIAF"> </idno>
-            <persName>
-               <forename>  </forename>
-               <surname>  </surname>
+            <persName> the Max Mullers
             </persName>
-            <birth />
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/"/>
+            <ptr sameAs="#person-DD192"> </ptr>
+            <ptr sameAs="#person-DD193"/>
          </person>
          
          <person xml:id="person-DD192">
-            <idno type="VIAF">  </idno>
-            <persName>
-               <forename>  </forename>
-               <surname>  </surname>
+            <idno type="VIAF"> 311208961 </idno>
+            <persName> Sir
+               <forename> William Grenfell </forename>
+               <surname> Max Muller </surname>
             </persName>
-            <birth />
-            <death />
+            <birth when="1867-06-09"/>
+            <death when="1945-05-10"/>
             <note>
-               <p> 
+               <p> British diplomat
                </p>
             </note>
-            <ptr target="http://viaf.org/viaf/"/>
-            <ptr/>
+            <ptr target="http://viaf.org/viaf/311208961"/>
+            <ptr target="https://en.wikipedia.org/wiki/William_Max_Muller"/>
             </person>
          
          <person xml:id="person-DD193">
-            <persName>
-               <surname/>
+            <persName> <forename> Wanda Maria </forename> <surname> Max Muller </surname>
             </persName>
-            <death />
+            <birth when="1883"></birth>
+            <death when="1970"/>
             <note>
-               <p>  </p>
+               <p> Married to Sir William Grenfell Max Muller </p>
             </note>
          </person>
          
@@ -2386,37 +2327,31 @@
          </person>
          
          <person xml:id="person-DD195">
-            <persName>
-               <forename>  </forename>
-               <surname>  </surname>
-            </persName>
-            <birth />
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr />
+            <persName> the Guillemards </persName>
+            <ptr sameAs="#person-DD196"/>
+            <ptr sameAs="#person-DD197"/>
          </person>
          
          <person xml:id="person-DD196">
-            <persName>
-               <forename>  </forename>
-               <surname>  </surname>
+            <idno type="VIAF"> 131781976 </idno>
+            <persName> Sir
+               <forename> Laurence Nunns </forename>
+               <surname> Guillemard </surname> , GCMG KCB
             </persName>
-            <birth />
-            <death />
+            <birth when="1862-06-07"/>
+            <death when="1951-12-13"/>
             <note>
-               <p>  </p>
+               <p> British civil servant </p>
             </note>
-            <ptr/>
+            <ptr target="http://viaf.org/viaf/131781976"/>
+            <ptr target="https://en.wikipedia.org/wiki/Laurence_Guillemard"/>
             </person>
          
          <person xml:id="person-DD197">
-            <persName> <forename>  </forename> <surname>  </surname> </persName>
-            <birth></birth>
-            <death></death>
-            <note> <p></p> </note>
-            <ptr/>
+            <persName> <forename> Ella </forename> <surname> Walker </surname> </persName>
+            <birth when="1881"></birth>
+            <death when="1940"></death>
+            <note> <p> Married to Sir Laurence Nunns Guillemard GCMG KCB </p> </note>
             </person>
          
          <person xml:id="person-DD198">
@@ -2562,6 +2497,12 @@
              <ptr target="https://en.wikipedia.org/wiki/Gideon_Oliphant-Murray,_2nd_Viscount_Elibank"/> 
           </person>
          
+         <person>
+            <persName> the Hendersons </persName>
+            <ptr sameAs="#person-DD047"/>
+            <ptr sameAs="#person-DD226"/>
+         </person>
+         
          <person xml:id="person-DD223">
             <persName> Dr <forename> Charles </forename> <surname> Bruggmann </surname> </persName>
             <birth when="1889"></birth>
@@ -2632,9 +2573,17 @@
             <ptr target="https://en.wikipedia.org/wiki/Ralph_Vaughan_Williams"/>
          </person>
          
+         <person xml:id="person-DD236">
+            <persName> Mrs B-L </persName>
+            <ptr sameAs="#person-DD150"/>
+         </person>
+         
         </listPerson>
    </standOff>
 </TEI>
+
+
+
 
 
 
