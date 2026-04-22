@@ -1249,18 +1249,11 @@
             </persName>           
          </person>
          
-         <person xml:id="person-DD109">
-            <idno type="VIAF">  </idno>
-            <persName>
-               <surname/>
-               <forename>  </forename>  </persName>
-            <birth />
-            <death />
+         <person xml:id="person-DD109">           
+            <persName> Mr Hough </persName>                              
             <note>
-               <p> </p>
-            </note>
-            <ptr />
-            <ptr />
+               <p> Commercial attache in Prague </p>
+            </note>         
          </person>
          
          <person xml:id="person-DD110">
@@ -1289,26 +1282,19 @@
             </person>
          
          <person xml:id="person-DD112">
-            <idno type="VIAF">  </idno>
-            <persName>  <forename>  </forename>
-               <surname> </surname>   </persName>
-            <birth />
-            <death />
+            <persName> Sir <forename> Eric </forename>
+               <surname> Eyre Crowe </surname> </persName>
+            <birth when="1905"/>
+            <death when="1952" />
             <note>
-               <p>  </p>
+               <p> British diplomat </p>
             </note>
-            <ptr />
-            <ptr />
          </person>
          
          <person xml:id="person-DD113">
-            <persName>
-               <forename>  </forename>
-               <surname>  </surname>
-            </persName>
-            <note>
-               <p>  </p>
-            </note>
+            <persName> Madame              
+               <surname> Brock </surname>
+            </persName>          
          </person>
          
          <person xml:id="person-DD114">
@@ -1436,17 +1422,8 @@
             <ptr target="https://en.wikipedia.org/wiki/Clement_Attlee"/>
          </person>
          
-         <person xml:id="person-DD123">
-            <idno type="VIAF">  </idno>
-            <persName>  <surname>  </surname>
-            </persName>
-            <birth />
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr />
-            <ptr />
+         <person xml:id="person-DD123">           
+            <persName> Dudley </persName>                      
          </person>
          
          <person xml:id="person-DD124">
@@ -1492,13 +1469,8 @@
             </person>
          
          <person xml:id="person-DD128">
-            <persName>
-               <forename/>
-            </persName>
-            <death />
-            <note>
-               <p> </p>
-            </note>
+            <persName> Mrs <surname> Wesche </surname>            
+            </persName>           
          </person>
          
          <person xml:id="person-DD129">
@@ -1541,25 +1513,14 @@
          
          <person xml:id="person-DD133">
             <persName>
-               <forename>  </forename>
-               <surname>  </surname>
-            </persName>
-            <birth />
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr />
+               <forename> Fanny </forename>              
+            </persName>           
            </person>
          
          <person xml:id="person-DD134">
             <persName>
-               <forename>  </forename>
-               <surname>  </surname>
-            </persName>
-            <note>
-               <p>  </p>
-            </note>
+               <forename> Paula </forename>               
+            </persName>            
          </person>
          
          <person xml:id="person-DD135">
@@ -1572,28 +1533,14 @@
          
          <person xml:id="person-DD136">
             <persName>
-               <forename>  </forename>
-               <surname>  </surname>
-            </persName>
-            <birth />
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr />
+               <forename> Dolly </forename>             
+            </persName>           
          </person>
          
          <person xml:id="person-DD137">
             <persName>
-               <forename>  </forename>
-               <surname>  </surname>
-            </persName>
-            <birth />
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr />
+               <forename> Jack </forename>              
+            </persName>          
          </person>
          
          <person xml:id="person-DD138">
@@ -1610,18 +1557,9 @@
             <ptr target="https://en.wikipedia.org/wiki/William_Hepburn_Buckler"/>
          </person>
          
-         <person xml:id="person-DD139">
-            <idno type="VIAF">  </idno>
-            <persName>
-               <surname/>
-               <forename>  </forename>  </persName>
-            <birth />
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/"/>
-            <ptr />
+         <person xml:id="person-DD139">         
+            <persName>              
+               <forename> Georgie </forename> </persName>           
          </person>
          
          <person xml:id="person-DD140">
@@ -1792,46 +1730,39 @@
          </person>
          
          <person xml:id="person-DD156">
-            <idno type="VIAF">  </idno>
-            <persName>
-               <forename>  </forename>
-               <surname>  </surname>
+            <idno type="VIAF"> 94864490 </idno>
+            <persName> Sir
+               <forename> William Jocelyn Ian  </forename>
+               <surname> Fraser </surname> , Baron Fraser of Lonsdale, CH, CBE
             </persName>
-            <birth />
-            <death />
+            <birth when="1897-08-30" />
+            <death when="1974-12-19" />
             <note>
-               <p> </p>
+               <p> British politician; governor of the BBC </p>
             </note>
-            <ptr target="http://viaf.org/viaf/"/>
-            <ptr />
+            <ptr target="http://viaf.org/viaf/94864490"/>
+            <ptr target="https://en.wikipedia.org/wiki/Ian_Fraser,_Baron_Fraser_of_Lonsdale" />
          </person>
          
-         <person xml:id="person-DD157">
-            <idno type="VIAF">  </idno>
+         <person xml:id="person-DD157">           
             <persName>
-               <forename>  </forename>
-               <surname>  </surname>
-            </persName>
-            <birth />
-            <death />
+               <forename> Irene Gladys </forename>
+               <surname> Mace </surname> , Lady Fraser Of Lonsdale
+            </persName>         
+            <death when="1978-03-18" />
             <note>
-               <p>  </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/"/>
-            <ptr />
+               <p> Married to Sir William Jocelyn Ian Fraser; also known as "Chips" </p>
+            </note>          
+            <ptr target="https://www.wikidata.org/wiki/Q75759803" />
          </person>
          
-         <person xml:id="person-DD158">
-            <idno type="VIAF">  </idno>
-            <persName>  <surname>  </surname>
-            </persName>
-            <birth />
-            <death />
+         <person xml:id="person-DD158">        
+            <persName> <forename> Preben Ferdinand </forename> <surname> Ahlefeldt Laurvig </surname>
+            </persName>            
             <note>
-               <p>  </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/"/>
-            <ptr />
+               <p> Danish ambassador to UK, 1921-1937 </p>
+            </note>           
+            <ptr target="https://storbritannien.um.dk/en/about-us/ambassadors-office/content-page" />
          </person>
          
          <person xml:id="person-DD159">
@@ -1853,14 +1784,9 @@
             </person>
          
          <person xml:id="person-DD161">
-            <persName>
-               <forename>  </forename>  <surname>  </surname>
-            </persName>
-            <birth />
-            <death />
-            <note>
-               <p>  </p>
-            </note>
+            <persName> Dr
+                <surname> Schmidt </surname>
+            </persName>           
          </person>
          
          <person xml:id="person-DD162">
@@ -1941,18 +1867,10 @@
             </note>
            </person>
          
-         <person xml:id="person-DD169">
-            <idno type="VIAF">  </idno>
+         <person xml:id="person-DD169">         
             <persName>
-               <forename>  </forename>
-               <surname>  </surname>  </persName>
-            <birth />
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/"/>
-            <ptr />
+               <forename> Sally </forename>
+             </persName>            
          </person>
          
          <person xml:id="person-DD170">
@@ -2075,13 +1993,12 @@
          </person>
          
          <person xml:id="person-DD179">
-            <persName>
+            <persName> <forename> Minerva </forename> <surname> Arrington Dodge </surname>
                <surname/>
             </persName>
-            <death />
-            <note>
-               <p> </p>
-            </note>
+            <birth when="1902-04-24"></birth>
+            <death when="1986-05-22"/>           
+            <ptr target="https://www.findagrave.com/memorial/190585498/minerva-dodge"/>
          </person>
          
          <person xml:id="person-DD180">
@@ -2097,53 +2014,25 @@
             <ptr target="https://en.wikipedia.org/wiki/Thomas_Royden,_1st_Baron_Royden"/>
          </person>
          
-         <person xml:id="person-DD181">
-            <idno type="VIAF">  </idno>
-            <persName>  <forename>  </forename>
-               <surname>  </surname> </persName>
-            <birth />
-            <death />
-            <note>
-               <p> </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/"/>
-            <ptr />
+         <person xml:id="person-DD181">        
+            <persName>  <forename> Lister </forename>
+               <surname> Harrison </surname> </persName>          
          </person>
          
          <person xml:id="person-DD182">
-            <persName>
-               <forename/>
-            </persName>
-            <death />
-            <note>
-               <p>  </p>
-            </note>
+            <persName> Mrs <surname> Rathbone </surname>           
+            </persName>           
          </person>
          
          <person xml:id="person-DD183">
-            <persName>
-               <forename>  </forename>
-               <surname>  </surname>
+            <persName> Mr            
+               <surname> Humble </surname>
             </persName>
-            <birth />
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr/>
             </person>
          
          <person xml:id="person-DD184">
-            <idno type="VIAF">  </idno>
-            <persName>  <forename>  </forename>
-               <surname>  </surname>  </persName>
-            <birth />
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr target="http://viaf.org/viaf/"/>
-            <ptr />
+            <persName> Mr 
+               <surname> Forster </surname>  </persName>         
          </person>
          
          <person xml:id="person-DD185">
@@ -2162,13 +2051,8 @@
             </person>
          
          <person xml:id="person-DD186">
-            <persName>
-               <forename/>
-            </persName>
-            <death />
-            <note>
-               <p> </p>
-            </note>
+            <persName> Greig             
+            </persName>          
          </person>
          
          <person xml:id="person-DD187">
@@ -2179,8 +2063,7 @@
             <birth when="1895-07-12"/>
             <death when="1962-12-07"/>
             <note>
-               <p> Opera singer </p>
-              
+               <p> Opera singer </p>            
             </note>
             <ptr target="http://viaf.org/viaf/22327235"/>
             <ptr target="https://en.wikipedia.org/wiki/Kirsten_Flagstad"/>
@@ -2188,13 +2071,8 @@
          
          <person xml:id="person-DD188">
             <persName>
-               <forename>  </forename>  <surname>  </surname>
+               <forename> Bertie </forename>  
             </persName>
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr />
          </person>
          
          <person xml:id="person-DD189">
@@ -2349,15 +2227,26 @@
      </person>
       
       <person xml:id="person-DD203">
-         <persName></persName>
+         <persName> the Horders </persName>
+         <ptr sameAs="#person-DD204"/>
+         <ptr sameAs="#person-DD205"/>
       </person>
       
       <person xml:id="person-DD204">
-         <persName></persName>
+         <idno type="VIAF"> 61078294 </idno>
+         <persName> <forename> Thomas Jeeves </forename> <surname> Horder </surname> , 1st Baron Horder </persName>
+         <birth when="1871-01-07"></birth>
+         <death when="1955-08-13"></death>
+         <note> <p> British physician </p> </note>
+         <ptr target="http://viaf.org/viaf/61078294"/>
+         <ptr target="https://en.wikipedia.org/wiki/Thomas_Horder,_1st_Baron_Horder"/>
       </person>
          
       <person xml:id="person-DD205">
-         <persName></persName>
+         <persName> <forename> Geraldine Rose Doggett </forename> <surname> Horder </surname> , Baroness Horder </persName>
+         <death when="1954-02-15"></death> 
+         <note> <p> Married to Thomas Jeeves Horder, 1st Baron Horder </p> </note>
+         <ptr target="https://www.thepeerage.com/p74818.htm"/>
       </person>
          
        <person xml:id="person-DD207">
@@ -2470,6 +2359,10 @@
             <note> <p>  Married to Sir Ian Leslie Henderson </p> </note>
          </person>
          
+         <person xml:id="person-DD227">
+            <persName> Madame <surname> Cermac </surname> </persName>
+         </person>
+         
          <person xml:id="person-DD228">
             <idno type="VIAF"> 308233909 </idno>
             <persName> <forename> Herbrand Edward Dundonald Brassey </forename> <surname> Sackville </surname> , 9th Earl De La Warr, GBE, PC, JP, DL </persName>
@@ -2524,6 +2417,19 @@
          
          <person xml:id="person-DD237">
             <persName> Princess Thun </persName>
+         </person>
+         
+         <person xml:id="person-DD238">
+            <persName> the Fachinis </persName>
+            <ptr sameAs="#person-DD242"/>
+         </person>
+         
+         <person xml:id="person-DD239">
+            
+         </person>
+         
+         <person xml:id="person-DD242">
+            <persName> <forename> Adela </forename> <surname> Fachini </surname> </persName>
          </person>
          
         </listPerson>
