@@ -762,19 +762,8 @@
             <ptr target="https://www.thepeerage.com/p58689.htm"/>
             </person>
          
-         <person xml:id="person-DD063">
-            <idno type="VIAF">  </idno>
-            <persName>
-               <forename>  </forename>
-               <surname>  </surname>
-            </persName>
-            <birth />
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr />
-            <ptr />
+         <person xml:id="person-DD063">           
+            <persName> Madame Havrankova </persName>            
          </person>
          
          <person xml:id="person-DD064">
@@ -846,29 +835,13 @@
          </person>
          
          <person xml:id="person-DD070">
-            <persName>  <forename>  </forename>
-               <surname>  </surname>
-            </persName>
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr />
+            <persName> Count Khuen              
+            </persName>           
            </person>
          
          <person xml:id="person-DD071">
-            <idno type="VIAF">  </idno>
-            <persName>
-               <forename>  </forename>
-               <surname>  </surname>
-            </persName>
-            <birth />
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr />
-            <ptr />
+            <persName> Countess Khuen               
+            </persName>           
          </person>
          
          <person xml:id="person-DD072">
@@ -1002,17 +975,14 @@
          </person>
          
          <person xml:id="person-DD082">
-            <persName>  <forename>  </forename>  <surname>  </surname>
-            </persName>
-            <death />
+            <persName> Herr Nikaulay </persName>          
             <note>
-               <p>  </p>
-            </note>
-            <ptr />
+               <p> Adolph Schwarzenberg's head manager </p>
+            </note>      
          </person>
          
          <person xml:id="person-DD083">
-            <persName>  <forename> </forename> <surname> </surname> </persName>
+            <persName> Count Schonborn </persName>
             </person>
          
          <person xml:id="person-DD084">
@@ -1020,13 +990,7 @@
          </person>
          
          <person xml:id="person-DD085">
-            <persName>
-               <forename/>
-            </persName>
-            <death />
-            <note>
-               <p>  </p>
-            </note>
+            <persName> Mme Bagnory </persName>                                 
          </person>
          
          <person xml:id="person-DD086">
@@ -1107,12 +1071,9 @@
          </person>
          
          <person xml:id="person-DD092">
-            <persName>
-               <forename>  </forename>
-               <surname> </surname>  </persName>
-            <death />
-            <note>
-               <p>  </p>
+            <persName> Count Westphalen </persName>               
+              <note>
+                 <p> Brother of Mme Bagnory </p>
             </note>
          </person>
          
@@ -1257,16 +1218,12 @@
          </person>
          
          <person xml:id="person-DD105">
-            <persName>
-               <forename>  </forename>
-               <surname>  </surname>
-            </persName>
-            <birth />
-            <death />
+            <persName> Frau Dr.               
+               <surname> Peters </surname>
+            </persName>           
             <note>
-               <p>  </p>
-            </note>
-            <ptr />
+               <p> Married to Gustav Peters, Czech politician </p>
+            </note>           
          </person>
          
          <person xml:id="person-DD106">
@@ -1284,25 +1241,12 @@
          </person>
          
          <person xml:id="person-DD107">
-            <persName>
-               <forename>  </forename>
-               <surname>  </surname>
-            </persName>
-            <death />
-            <note>
-               <p>  </p>
-            </note>
-            <ptr />
+            <persName> Prince Lopkovic </persName>                                     
          </person>
          
          <person xml:id="person-DD108">
-            <persName>
-               <surname/>
-            </persName>
-            <death />
-            <note>
-               <p> </p>
-            </note>
+            <persName> Prince Thun             
+            </persName>           
          </person>
          
          <person xml:id="person-DD109">
@@ -2446,7 +2390,7 @@
            <ptr target="https://cs.wikipedia.org/wiki/Gustav_Peters"/>
            </person>
          
-         <person xml:id="DD210">
+         <person xml:id="person-DD210">
             <idno type="VIAF"> 44341843 </idno>
             <persName> <forename> Éamon </forename> <surname> de Valera </surname> </persName>
             <birth when="1882-10-14"/>
@@ -2576,6 +2520,10 @@
          <person xml:id="person-DD236">
             <persName> Mrs B-L </persName>
             <ptr sameAs="#person-DD150"/>
+         </person>
+         
+         <person xml:id="person-DD237">
+            <persName> Princess Thun </persName>
          </person>
          
         </listPerson>
