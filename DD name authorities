@@ -1646,9 +1646,8 @@
             <ptr target="https://de.wikipedia.org/wiki/Walter_Brand"/>
          </person>
          
-         <person xml:id="person-DD149">
-            
-            <persName> <forename> Basil </forename>  <surname> Herton </surname>
+         <person xml:id="person-DD149">         
+            <persName> <forename> Basil </forename>  <surname> Weston </surname>
             </persName>
             </person>
          
@@ -1956,7 +1955,7 @@
             <persName> <forename> Mary Constance </forename> <surname> Boynton </surname> </persName>
             <death when="1974"/>
             <note>
-               <p> Known as "Mollie" </p>
+               <p> Married to Philip Cunliffe-Lister, 1st Earl of Swinton; known as "Mollie" </p>
             </note>
             </person>
          
@@ -1977,7 +1976,6 @@
          
          <person xml:id="person-DD179">
             <persName> <forename> Minerva </forename> <surname> Arrington Dodge </surname>
-               <surname/>
             </persName>
             <birth when="1902-04-24"></birth>
             <death when="1986-05-22"/>           
@@ -2027,7 +2025,7 @@
             <birth when="1893-04-30"/>
             <death when="1946-10-16"/>
             <note>
-               <p> German politician and diplomat; Minister of Foreign Affairs of Nazi Germany, 1938 to 1945 </p>
+               <p> German politician and diplomat; Minister of Foreign Affairs of Nazi Germany, 1938-1945 </p>
             </note>
             <ptr target="http://viaf.org/viaf/74645641"/>
             <ptr target="https://en.wikipedia.org/wiki/Joachim_von_Ribbentrop"/>
@@ -2077,8 +2075,7 @@
                <surname> Harmsworth </surname> , Viscountess Northcliffe, GBE, DStJ, ARRC
             </persName>
             <birth when="1867-12-22"/>
-            <death when="1963-07-29"/>
-            
+            <death when="1963-07-29"/>          
             <ptr target="http://viaf.org/viaf/315694030"/>
             <ptr target="https://en.wikipedia.org/wiki/Mary_Harmsworth,_Viscountess_Northcliffe"/>
             </person>
@@ -2313,7 +2310,7 @@
              <ptr target="https://en.wikipedia.org/wiki/Gideon_Oliphant-Murray,_2nd_Viscount_Elibank"/> 
           </person>
          
-         <person>
+         <person xml:id="person-DD222">
             <persName> the Hendersons </persName>
             <ptr sameAs="#person-DD047"/>
             <ptr sameAs="#person-DD226"/>
@@ -2418,6 +2415,7 @@
         </listPerson>
    </standOff>
 </TEI>
+
 
 
 
