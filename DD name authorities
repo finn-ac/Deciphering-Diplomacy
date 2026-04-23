@@ -27,6 +27,7 @@
             <ptr target="http://viaf.org/viaf/62343101"/>
             <ptr target="https://en.wikipedia.org/wiki/Edward_Wood,_1st_Earl_of_Halifax"/>
          </person>
+         
          <person xml:id="person-DD002">
             <idno type="VIAF"/>
             <persName>
@@ -39,6 +40,7 @@
             </note>
             <ptr target="https://en.wikipedia.org/wiki/Herbert_Warington_Smyth"/>
          </person>
+         
          <person xml:id="person-DD003">
             <idno type="VIAF"> 22318481 </idno>
             <persName>
@@ -75,25 +77,22 @@
             <note>
                <p> Son of Hilda and Walter Runciman </p>
             </note>
-
             <ptr
                target="https://en.wikipedia.org/wiki/Leslie_Runciman,_2nd_Viscount_Runciman_of_Doxford"
             />
          </person>
+         
          <person xml:id="person-DD006">
             <idno type="VIAF"> </idno>
             <persName>
                <forename> Katharine </forename>
                <surname> Farrer </surname>
             </persName>
-
-
             <note>
                <p> Daughter of Hilda and Walter Runciman </p>
             </note>
-
-
          </person>
+         
          <person xml:id="person-DD007">
             <persName> Oliver Thomas <surname> Farrer </surname>
             </persName>
@@ -126,7 +125,6 @@
                <surname> Shukman </surname>
             </persName>
             <note> Daughter of Margaret Fairweather; grand-daughter of Hilda and Walter Runciman </note>
-
             <ptr target="http://viaf.org/viaf/13479092"/>
          </person>
 
@@ -299,8 +297,7 @@
          <person xml:id="person-DD025">
             <idno type="VIAF"> 46090086 </idno>
             <persName> <forename> Douglas McGarel </forename>
-               <surname> Hogg </surname> , 1st Viscount Hailsham, PC 
-               
+               <surname> Hogg </surname> , 1st Viscount Hailsham, PC               
             </persName>
             <birth when="1872-02-28"></birth>
             <death when="1950-08-16"></death>
@@ -355,8 +352,7 @@
             <idno type="VIAF"> 97159818803013812795 </idno>
             <persName>
                <forename> Robert Jemmett </forename>
-               <surname> Stopford </surname>
-               
+               <surname> Stopford </surname>              
             </persName>
             <birth when="1895-05-19"></birth>
             <death when="1978-09-20"></death>
@@ -409,7 +405,6 @@
           </person>
          
          <person xml:id="person-DD034">
-            <idno type="VIAF">  </idno>
             <persName>  <forename> Pauline  </forename>
                <surname> Peto </surname>  </persName>
             <death when="1950-11-30"/>
@@ -476,7 +471,7 @@
          <person xml:id="person-DD040">
             <persName>
                <forename> George Douglas Cochrane </forename>
-               <surname> Newton </surname> ,  1st Baron Eltisley, KBE
+               <surname> Newton </surname> , 1st Baron Eltisley, KBE
             </persName>
             <birth when="1879-07-14"/>
             <death when="1942-09-02"/>
@@ -603,10 +598,9 @@
          </person>
          
          <person xml:id="person-DD050">
-            <persName>
-               <surname/>
-               <forename/>
+            <persName> Ra              
             </persName>
+            <ptr sameAs="#person-DD049"/>
          </person>
          
          <person xml:id="person-DD051">
@@ -640,10 +634,6 @@
                <forename> Maximilian Egon Maria Erwin Paul  </forename> <surname> Hohenlohe-Langenburg </surname> Prince </persName>
             <birth when="1897-11-19"/>
             <death when=" 1968-08-13"/>
-            <note>
-               <p> 
-               </p>
-            </note>
             <ptr target="https://de.wikipedia.org/wiki/Max_Egon_zu_Hohenlohe-Langenburg"/>
             </person>
          
@@ -887,13 +877,12 @@
          </person>
          
          <person xml:id="person-DD075">
-            <persName>
-               <surname/>
+            <persName> Mrs
+               <surname/> Kundt
                <forename/>
             </persName>
-            <death/>
             <note>
-               <p> </p>
+               <p> Married to Ernst Otto Nicolaus Kundt </p>
             </note>
          </person>
          
@@ -929,9 +918,6 @@
              </persName>
             <birth when="1873-11-14"/>
             <death when=" 1945-11-12"/>
-            <note>
-               <p>  </p>
-            </note>
             <ptr target="http://viaf.org/viaf/29912249"/>
             <ptr target="https://cs.wikipedia.org/wiki/Eugen_Ledebur-Wicheln"/>
          </person>
@@ -990,7 +976,7 @@
          </person>
          
          <person xml:id="person-DD085">
-            <persName> Mme Bagnory </persName>                                 
+            <persName> Madame Bagnory </persName>                                 
          </person>
          
          <person xml:id="person-DD086">
@@ -1073,7 +1059,7 @@
          <person xml:id="person-DD092">
             <persName> Count Westphalen </persName>               
               <note>
-                 <p> Brother of Mme Bagnory </p>
+                 <p> Brother of Madame Bagnory </p>
             </note>
          </person>
          
@@ -1364,18 +1350,18 @@
          </person>
          
          <person xml:id="person-DD119">
-            <idno type="VIAF"> 76325766 </idno>
+            <idno type="VIAF"> 29542759 </idno>
             <persName>
-               <forename> Anna Eleanor </forename>
+               <forename> Franklin Delano </forename>
                <surname> Roosevelt </surname>
             </persName>
-            <birth when="1884-10-11"/>
-            <death when="1962-11-07"/>
+            <birth when="1882-01-30"/>
+            <death when="1945-04-12"/>
             <note>
-               <p> American First Lady, 1933-1945 </p>
+               <p> American President, 1933–1945 </p>
             </note>
-            <ptr target="http://viaf.org/viaf/76325766"/>
-            <ptr target="https://en.wikipedia.org/wiki/Eleanor_Roosevelt"/>
+            <ptr target="http://viaf.org/viaf/29542759"/>
+            <ptr target="https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"/>
          </person>
          
          <person xml:id="person-DD120">
@@ -1550,9 +1536,6 @@
                <surname> Buckler </surname> </persName>
             <birth when="1867"/>
             <death when="1952"/>
-            <note>
-               <p>  </p>
-            </note>
             <ptr target="http://viaf.org/viaf/54141216"/>
             <ptr target="https://en.wikipedia.org/wiki/William_Hepburn_Buckler"/>
          </person>
@@ -2435,6 +2418,7 @@
         </listPerson>
    </standOff>
 </TEI>
+
 
 
 
