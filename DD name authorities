@@ -2310,6 +2310,26 @@
              <ptr target="https://en.wikipedia.org/wiki/Gideon_Oliphant-Murray,_2nd_Viscount_Elibank"/> 
           </person>
          
+         <person xml:id="person-DD220">
+            <idno type="VIAF"> 27094651 </idno>
+            <persName> <forename> George Nathaniel </forename> <surname> Curzon </surname> , 1st Marquess Curzon of Kedleston </persName>
+            <birth when="1859-01-11"></birth>
+            <death when="1925-03-20"></death>
+            <note> <p> Politician </p> </note>
+            <ptr target="http://viaf.org/viaf/27094651"/>
+            <ptr target="https://en.wikipedia.org/wiki/George_Curzon,_1st_Marquess_Curzon_of_Kedleston"/>
+         </person>
+         
+         <person xml:id="person-DD221">
+            <idno type="VIAF"> 308719945 </idno>
+            <persName> <forename> Lajos </forename> <surname> Szmrecsányi </surname> </persName>
+            <birth when="1851-04-26"></birth>
+            <death when="1943-01-28"></death>
+            <note> <p> Archbishop of Eger, 1912-1943 </p> </note>
+            <ptr target="http://viaf.org/viaf/308719945"/>
+            <ptr target="https://hu.wikipedia.org/wiki/Szmrecs%C3%A1nyi_Lajos"/>
+         </person>
+         
          <person xml:id="person-DD222">
             <persName> the Hendersons </persName>
             <ptr sameAs="#person-DD047"/>
@@ -2322,6 +2342,11 @@
             <death when="1967"></death>
             <note> <p> Swiss Minister to the United States, 1939-1954 </p> </note>
             <ptr target="https://www.nytimes.com/1967/09/17/archives/dr-charles-bruggmann-dies-former-swiss-envoy-to-us.html"/>
+         </person>
+         
+         <person xml:id="person-DD224">
+            <persName> <forename> Mary </forename> <surname> Bruggmann </surname> </persName>
+            <note> <p> Married to Dr Charles Bruggmann, Swiss Minister to the United States, 1939-1954 </p> </note>
          </person>
          
          <person xml:id="person-DD225">
@@ -2351,6 +2376,32 @@
             <note> <p> British politician </p> </note>
             <ptr target="http://viaf.org/viaf/308233909"/>
             <ptr target="https://en.wikipedia.org/wiki/Herbrand_Sackville,_9th_Earl_De_La_Warr"/>
+         </person>
+         
+         <person xml:id="person-DD229">
+            <persName> Crown Prince and Princess </persName>
+            <ptr sameAs="#person-DD230"/>
+            <ptr sameAs="#person-DD231"/>
+         </person>
+         
+         <person xml:id="person-DD230">
+            <idno type="VIAF"> 264589926 </idno>
+            <persName> Princess Ingrid Victoria Sofia Louisa Margareta </persName>
+            <birth when=" 1910-03-28"></birth>
+            <death when="2000-11-07"></death>
+            <note> <p> Queen Consort of Frederick IX, King of Denmark, 1947-1972 </p> </note>
+            <ptr target="http://viaf.org/viaf/264589926"/>
+            <ptr target="https://en.wikipedia.org/wiki/Ingrid_of_Sweden"/>
+         </person>
+         
+         <person xml:id="person-DD231">
+            <idno type="VIAF"> 3272838 </idno>
+            <persName> Prince Christian Frederik Franz Michael Carl Valdemar Georg </persName>
+            <birth when="1899-03-11"></birth>
+            <death when="1972-01-14"></death>
+            <note> <p> King of Denmark, 1947-1972 </p> </note>
+            <ptr target="http://viaf.org/viaf/3272838"/>
+            <ptr target="https://en.wikipedia.org/wiki/Frederik_IX"/>
          </person>
          
          <person xml:id="person-DD232">
@@ -2405,25 +2456,75 @@
          </person>
          
          <person xml:id="person-DD239">
-            
+            <persName> Sir <forename> Harry Edward Augustus </forename> <surname> Twyford </surname> </persName>
+            <birth when="1870-01-04"></birth>
+            <death when="1967-01-10"></death>
+            <note> <p> British business man and Lord Mayor of London, 1937-1938 </p> </note>
+            <ptr target="https://en.wikipedia.org/wiki/Harry_Twyford"/>
+         </person>
+         
+         <person xml:id="person-DD240">
+            <persName> <forename> Ethel Rose </forename> <surname> Twyford </surname> </persName>
+            <birth when="1876-03-15"></birth>
+            <death when="1947-09-16"></death>
+            <note> <p> Married to Sir Harry Edward Augustus Twyford, Mayor of London, 1937-1938 </p></note>
          </person>
          
          <person xml:id="person-DD242">
             <persName> <forename> Adela </forename> <surname> Fachini </surname> </persName>
          </person>
          
+         <person xml:id="person-DD243">
+            <idno type="VIAF"> 59888047 </idno>
+            <persName> <forename> John Charles Walsham </forename> <surname> Reith </surname>, 1st Baron Reith </persName>
+            <birth when="1889-07-20"></birth>
+            <death when="1971-06-16"></death>
+            <note> <p> Director-General of the BBC, 1927-1938 </p> </note>
+            <ptr target="http://viaf.org/viaf/59888047"/>
+            <ptr target="https://en.wikipedia.org/wiki/John_Reith,_1st_Baron_Reith"/>
+         </person>
+         
+         <person xml:id="person-DD244">
+            <persName> the Chicken </persName>
+            <note> <p> A nickname for Konrad Ernst Eduard Henlein </p> </note>
+            <ptr sameAs="#person-DD046"/>
+         </person>
+         
+         <person xml:id="person-DD245">
+            <idno type="VIAF"> 1388952 </idno>
+            <persName> Dame <forename> Agatha Mary Clarissa </forename> <surname> Christie </surname> , Lady Mallowan </persName>
+            <birth when="1890-09-15"></birth>
+            <death when="1976-01-12"></death>
+            <note> <p> Author </p> </note>
+            <ptr target="http://viaf.org/viaf/1388952"/>
+            <ptr target="https://en.wikipedia.org/wiki/Agatha_Christie"/>
+         </person>
+         
+         <person xml:id="person-DD246">
+            <idno type="VIAF"> 76677734 </idno>
+            <persName> <forename> Edward Phillips </forename> <surname> Oppenheim </surname> </persName>
+            <birth when="1866-10-22"></birth>
+            <death when="1946-02-03"></death>
+            <note> <p> Author </p> </note>
+            <ptr target="http://viaf.org/viaf/76677734"/>
+            <ptr target="https://en.wikipedia.org/wiki/E._Phillips_Oppenheim"/>
+         </person>
+         
+         <person xml:id="person-DD247">
+            <idno type="VIAF"> 23321798 </idno>
+            <persName> The Most Reverend <forename> Karel Boromejský </forename> <surname> Kašpar </surname> </persName>
+            <birth when="1870-05-16"></birth>
+            <death when="1941-04-21"></death>
+            <note> <p> Archbishop of Prague, 1931-1941 </p> </note>
+            <ptr target="http://viaf.org/viaf/23321798"/>
+            <ptr target="https://en.wikipedia.org/wiki/Karel_Ka%C5%A1par"/>
+         </person>
+         
+         <person xml:id="person-DD248">
+            <persName> French Foreign Minister </persName>
+            <ptr sameAs="#person-DD118"/>
+         </person>
+         
         </listPerson>
    </standOff>
 </TEI>
-
-
-
-
-
-
-
-
-
-
-
-
