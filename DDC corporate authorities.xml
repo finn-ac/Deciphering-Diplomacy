@@ -20,7 +20,7 @@
    <standOff>
       <listOrg>
          <org>
-            <orgName key="org_DDC001"> Doxford Hall </orgName>
+            <orgName key="org-DDC001"> Doxford Hall </orgName>
             <desc> Family home of Walter and Hilda Runciman, located in <placeName> Chathill
                      <region> Northumberland </region>
                   <country> England </country>
@@ -29,7 +29,7 @@
          </org>
 
          <org>
-            <orgName key="org_DDC002"> Puddephatts Farm </orgName>
+            <orgName key="org-DDC002"> Puddephatts Farm </orgName>
             <desc> Family home of Oliver Farrer, located in <placeName>
                   <region> Hertfordshire </region>
                </placeName>
@@ -39,7 +39,7 @@
          </org>
 
          <org>
-            <orgName key="org_DDC003"> Victoria Station Incorporated </orgName>
+            <orgName key="org-DDC003"> Victoria Station Incorporated </orgName>
             <placeName> London <country> England </country>
                <idno type="LOC"> n79019608 </idno>
                <ref target="https://lccn.loc.gov/n79019608"> </ref>
@@ -47,7 +47,7 @@
          </org>
 
          <org>
-            <orgName key="org_DDC004"> Hotel Alcron (Prague, Czech Republic) </orgName>
+            <orgName key="org-DDC004"> Hotel Alcron (Prague, Czech Republic) </orgName>
             <placeName> Prague <country> Czech Republic </country>
                <idno type="VIAF"> 6169170671828616650000 </idno>
                <ref target="http://viaf.org/viaf/6169170671828616650000"> </ref>
@@ -55,7 +55,7 @@
          </org>
 
          <org>
-            <orgName key="org_DDC005"> British Embassy (Czech Republic) </orgName>
+            <orgName key="org-DDC005"> British Embassy (Czech Republic) </orgName>
             <placeName> Prague <country> Czech Republic </country>
                <idno type="VIAF"> 140029044 </idno>
                <ref target="http://viaf.org/viaf/140029044"> </ref>
@@ -63,7 +63,7 @@
          </org>
 
          <org>
-            <orgName key="org_DDC006"> Pražský hrad. Starý královský palác </orgName>
+            <orgName key="org-DDC006"> Pražský hrad. Starý královský palác </orgName>
             <placeName> Prague <country> Czech Republic </country>
                <idno type="VIAF"> 152916880 </idno>
                <ref target="http://viaf.org/viaf/152916880"> </ref>
@@ -71,7 +71,7 @@
          </org>
 
          <org>
-            <orgName key="org_DDC007"> Karlova Koruna (zámek) </orgName>
+            <orgName key="org-DDC007"> Karlova Koruna (zámek) </orgName>
             <placeName>
                <country> Czech Republic </country>
                <idno type="VIAF"> 136516923 </idno>
@@ -81,7 +81,7 @@
          </org>
 
          <org>
-            <orgName key="org_DDC008"> Černínský palác (Hradčany, Praha, Česko) </orgName>
+            <orgName key="org-DDC008"> Černínský palác (Hradčany, Praha, Česko) </orgName>
             <placeName> Prague <country> Czech Republic </country>
                <idno type="VIAF"> 153634794 </idno>
                <ref target="http://viaf.org/viaf/153634794"> </ref>
@@ -90,7 +90,7 @@
          </org>
 
          <org>
-            <orgName key="org_DDC009"> Pražská Loreta (Church)</orgName>
+            <orgName key="org-DDC009"> Pražská Loreta (Church)</orgName>
             <placeName> Prague <country> Czech Republic </country>
                <idno type="VIAF"> 126797265 </idno>
                <ref target="http://viaf.org/viaf/126797265"> </ref>
@@ -98,7 +98,7 @@
          </org>
 
          <org>
-            <orgName key="org_DDC010"> Červený Hrádek Chateau </orgName>
+            <orgName key="org-DDC010"> Červený Hrádek Chateau </orgName>
             <placeName> Chomutov District <region> Ústí kraj region </region>
                <country> Czech Republic </country>
                <idno type="VIAF"> 288835461 </idno>
@@ -107,7 +107,7 @@
          </org>
 
          <org>
-            <orgName key="org_DDC011"> Národní divadlo v Praze </orgName>
+            <orgName key="org-DDC011"> Národní divadlo v Praze </orgName>
             <placeName> Prague <country> Czech Republic </country>
                <idno type="VIAF"> 152876114 </idno>
                <ref target="http://viaf.org/viaf/152876114"> </ref>
@@ -116,7 +116,7 @@
          </org>
 
          <org>
-            <orgName key="org_DDC012"> Zámek Dolní Břežany </orgName>
+            <orgName key="org-DDC012"> Zámek Dolní Břežany </orgName>
             <placeName> Prague <country> Czech Republic </country>
                <idno type="VIAF"> 304169614 </idno>
                <ref target="http://viaf.org/viaf/304169614"> </ref>
@@ -125,21 +125,21 @@
          </org>
 
          <org>
-            <orgName key="org_DDC013"> Masaryk Homes </orgName>
+            <orgName key="org-DDC013"> Masaryk Homes </orgName>
             <placeName> Prague <country> Czech Republic </country>
             </placeName>
             <desc> Interwar establishment for state sponsored social care in Prague. </desc>
          </org>
 
          <org>
-            <orgName key="org_DDC014"> Zámek Petrohrad </orgName>
+            <orgName key="org-DDC014"> Zámek Petrohrad </orgName>
             <placeName> Louny <country> Czech Republic </country>
             </placeName>
             <desc> Castle belonging to the Czernin family. </desc>
          </org>
 
          <org>
-            <orgName key="org_DDC015"> Church of Our Lady before Týn </orgName>
+            <orgName key="org-DDC015"> Church of Our Lady before Týn </orgName>
             <placeName> Prague <country> Czech Republic </country>
                <idno type="VIAF"> 152916439 </idno>
                <ref target="http://viaf.org/viaf/152916439"> </ref>
@@ -147,7 +147,7 @@
          </org>
 
          <org>
-            <orgName key="org_DDC016"> Royal Albert Hall </orgName>
+            <orgName key="org-DDC016"> Royal Albert Hall </orgName>
             <placeName> London <country> England </country>
                <idno type="VIAF"> 155273907 </idno>
                <ref target="http://viaf.org/viaf/155273907"/>
@@ -155,7 +155,7 @@
          </org>
 
          <org>
-            <orgName key="org_DDC017"> Ballewan House </orgName>
+            <orgName key="org-DDC017"> Ballewan House </orgName>
             <placeName> Strathblane <region> Stirling </region>
                <country> Scotland </country>
                <ref
@@ -165,7 +165,7 @@
          </org>
 
          <org>
-            <orgName key="org_DDC018"> The Ritz Hotel (London, England) </orgName>
+            <orgName key="org-DDC018"> The Ritz Hotel (London, England) </orgName>
             <placeName> London <country> England </country>
                <idno type="VIAF"> 263907682 </idno>
                <ref target="http://viaf.org/viaf/263907682"> </ref>
@@ -173,7 +173,7 @@
          </org>
 
          <org>
-            <orgName key="org_DDC019"> Ladies' Athenaeum Club </orgName>
+            <orgName key="org-DDC019"> Ladies' Athenaeum Club </orgName>
             <placeName> London <country> England </country>
             </placeName>
             <desc> A club for ladies interested in politics, arts, literature and music founded by
@@ -184,7 +184,7 @@
          </org>
 
          <org>
-            <orgName key="org_DDC020"> Ambassador Hotel (Prague) </orgName>
+            <orgName key="org-DDC020"> Ambassador Hotel (Prague) </orgName>
             <placeName> Prague <country> Czech Republic </country>
             </placeName>
             <desc> Hotel located in <placeName> Wencelas Square. </placeName>
@@ -192,7 +192,7 @@
          </org>
 
          <org>
-            <orgName key="org_DDC021"> Pilsner Urquell Brewery </orgName>
+            <orgName key="org-DDC021"> Pilsner Urquell Brewery </orgName>
             <placeName> Plzeň <country> Bohemia </country>
                <idno type="VIAF"> 246288215 </idno>
                <ref target="http://viaf.org/viaf/246288215"> </ref>
@@ -200,22 +200,22 @@
          </org>
 
          <org>
-            <orgName key="org_DDC022"> The Vienna Hotel </orgName>
+            <orgName key="org-DDC022"> The Vienna Hotel </orgName>
          </org>
 
          <org>
-            <orgName key="org_DDC023"> Embassy of the Netherlands (Belgium) </orgName>
+            <orgName key="org-DDC023"> Embassy of the Netherlands (Belgium) </orgName>
             <placeName>
                <country> Belgium </country>
             </placeName>
          </org>
 
          <org>
-            <orgName key="org_DDC024"> Birney </orgName>
+            <orgName key="org-DDC024"> Birney </orgName>
          </org>
 
          <org>
-            <orgName key="org_DDC025"> Mansion House (London, England) </orgName>
+            <orgName key="org-DDC025"> Mansion House (London, England) </orgName>
             <placeName> London <country> England </country>
                <idno type="VIAF"> 172215291 </idno>
                <ref target="https://viaf.org/en/viaf/172215291"> </ref>
@@ -223,20 +223,20 @@
          </org>
 
          <org>
-            <orgName key="org_DDC026"> Embassy of Denmark (London) </orgName>
+            <orgName key="org-DDC026"> Embassy of Denmark (London) </orgName>
             <placeName> London <country> England </country>
                <ref target="https://isni.org/isni/0000000406294273"> </ref>
             </placeName>
          </org>
 
          <org>
-            <orgName key="org_DDC027"> Kensington Palace Gardens (Street) </orgName>
+            <orgName key="org-DDC027"> Kensington Palace Gardens (Street) </orgName>
             <placeName> London <country> England </country>
             </placeName>
          </org>
 
          <org>
-            <orgName key="org_DDC028"> Savoy Hotel (London, England) </orgName>
+            <orgName key="org-DDC028"> Savoy Hotel (London, England) </orgName>
             <placeName> London <country> England </country>
                <idno type="VIAF"> 172216581 </idno>
                <ref target="https://viaf.org/en/viaf/172216581"> </ref>
@@ -244,7 +244,7 @@
          </org>
 
          <org>
-            <orgName key="org_DDC029"> Moscow Art Theatre </orgName>
+            <orgName key="org-DDC029"> Moscow Art Theatre </orgName>
             <placeName> Moscow <country> Russia </country>
                <ref target="https://d-nb.info/gnd/505944-6"> </ref>
             </placeName>
