@@ -2525,7 +2525,16 @@
             <ptr sameAs="#person-DD118"/>
          </person>
          
+         <person xml:id="person-DD249">
+            <idno type="VIAF"> 77261879 </idno>
+            <persName> <forename> Walter </forename> <surname> Runciman </surname> , 1st Viscount Runciman of Doxford, PC </persName>
+            <birth when="1870-11-19"></birth>
+            <death when="1949-11-14"></death>
+            <note> <p> British politician </p> </note>
+            <ptr target="https://viaf.org/en/viaf/77261879"/>
+            <ptr target="https://en.wikipedia.org/wiki/Walter_Runciman,_1st_Viscount_Runciman_of_Doxford"/>
+         </person>
+         
         </listPerson>
    </standOff>
 </TEI>
-
