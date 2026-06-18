@@ -18,359 +18,359 @@
   </teiHeader>
    <standOff> 
    <listPlace> 
-      <place xml:id="place_DDP001"> 
+      <place xml:id="place-DDP001"> 
       <placeName> Oban </placeName> <country> Scotland </country>
          <idno type="VIAF"> 158308650 </idno>
          <ptr target="http://viaf.org/viaf/158308650"/>
          </place>
       
-      <place xml:id="place_DDP002">
+      <place xml:id="place-DDP002">
          <placeName> London </placeName> <country> England </country>
          <idno type="VIAF"> 8676155769103627880004 </idno>
          <ptr target="http://viaf.org/viaf/8676155769103627880004"/>
       </place>
       
-      <place xml:id="place_DDP003">
+      <place xml:id="place-DDP003">
          <placeName> Prague </placeName> <country> Czech Republic </country>
          <idno type="VIAF"> 124497561 </idno>
          <ptr target="http://viaf.org/viaf/124497561"/>
        </place>
       
-      <place xml:id="place_DDP005">
+      <place xml:id="place-DDP005">
          <placeName> Cowes </placeName> <region> Isle of Wight </region> <country> England </country>
          <idno type="VIAF"> 148966105 </idno>
          <ptr target="http://viaf.org/viaf/148966105"/>
        </place>
       
-      <place xml:id="place_DDP007">
+      <place xml:id="place-DDP007">
          <placeName> India </placeName> <country> India </country>
          <idno type="VIAF"> 135375457 </idno>
          <ptr target="http://viaf.org/viaf/135375457"/>
       </place>
       
-      <place xml:id="place_DDP008">
+      <place xml:id="place-DDP008">
          <placeName> United States of America </placeName> <country> United States of America </country>
          <idno type="VIAF"> 130168302 </idno>
          <ptr target="http://viaf.org/viaf/130168302"/>
       </place>
       
-      <place xml:id="place_DDP009">
+      <place xml:id="place-DDP009">
          <placeName> Plzeň </placeName> <country> Czech Republic </country>
          <idno type="VIAF"> 137836473 </idno>
          <ptr target="http://viaf.org/viaf/137836473"/>
       </place>
       
-      <place xml:id="place_DDP010">
+      <place xml:id="place-DDP010">
          <placeName> Ottawa </placeName> <region> Ontario </region> <country> Canada </country>
          <idno type="VIAF"> 130101995 </idno>
          <ptr target="http://viaf.org/viaf/130101995"/>
       </place>
       
-      <place xml:id="place_DDP011">
+      <place xml:id="place-DDP011">
          <placeName> Berlin </placeName> <country> Germany </country>
          <idno type="VIAF"> 122530980 </idno>
          <ptr target="http://viaf.org/viaf/122530980"/>
       </place>
       
-      <place xml:id="place_DDP012">
+      <place xml:id="place-DDP012">
          <placeName> England </placeName> <country> England </country>
          <idno type="VIAF"> 142995804 </idno>
          <ptr target="http://viaf.org/viaf/142995804"/>
       </place>
       
-      <place xml:id="place_DDP013">
+      <place xml:id="place-DDP013">
          <placeName> Vlatva River </placeName> <country> Czech Republic </country>
          <idno type="VIAF"> 315127034 </idno>
          <ptr target="http://viaf.org/viaf/315127034"/>
       </place>
       
-      <place xml:id="place_DDP014">
+      <place xml:id="place-DDP014">
          <placeName> Innsbruck </placeName> <country> Austria </country>
          <idno type="VIAF"> 131336603 </idno>
          <ptr target="http://viaf.org/viaf/131336603"/>
       </place>
       
-      <place xml:id="place_DDP015">
+      <place xml:id="place-DDP015">
          <placeName> Žďár nad Sázavou </placeName> <country> Czech Republic </country>
          <idno type="VIAF"> 276115038 </idno>
          <ptr target="http://viaf.org/viaf/276115038"/>
       </place>
       
-      <place xml:id="place_DDP016">
+      <place xml:id="place-DDP016">
          <placeName> Mariánské Lázně </placeName> <country> Czech Republic </country>
          <idno type="VIAF"> 143070036 </idno>
          <ptr target="http://viaf.org/viaf/143070036"/>
       </place>
       
-      <place xml:id="place_DDP017">
+      <place xml:id="place-DDP017">
          <placeName> Karlovy Vary </placeName> <country> Czech Republic </country>
          <idno type="VIAF"> 126074530 </idno>
          <ptr target="http://viaf.org/viaf/126074530"/>
       </place>
       
-      <place xml:id="place_DDP018">
+      <place xml:id="place-DDP018">
          <placeName> Slovakia </placeName> <country> Slovakia </country>
          <idno type="VIAF"> 138347464 </idno>
          <ptr target="https://viaf.org/en/viaf/138347464"/>
       </place>
       
-      <place xml:id="place_DDP019">
+      <place xml:id="place-DDP019">
          <placeName> Yugoslavia </placeName> <country> Yugoslavia </country>
          <idno type="VIAF"> 129599996 </idno>
          <ptr target="http://viaf.org/viaf/129599996"/>
       </place>
       
-      <place xml:id="place_DDP020">
+      <place xml:id="place-DDP020">
          <placeName> Na Tokání </placeName> <region> Bohemian Switzerland National Park </region> <country> Czech Republic </country>
          <idno type="VIAF"> 252157282918403640007 </idno>
          <ptr target="http://viaf.org/viaf/252157282918403640007"/>
       </place>
       
-      <place xml:id="place_DDP021">
+      <place xml:id="place-DDP021">
          <placeName>  Bohemia </placeName> <country>  Czech Republic </country>
          <idno type="VIAF"> 125998553 </idno>
          <ptr target="http://viaf.org/viaf/125998553"/>
       </place>
       
-      <place xml:id="place_DDP022">
+      <place xml:id="place-DDP022">
          <placeName> Sudetenland </placeName> <country>  Czech Republic </country>
          <idno type="LOC"> sh85129624 </idno>
          <ptr target="https://lccn.loc.gov/sh85129624"/>
       </place>
       
-      <place xml:id="place_DDP023">
+      <place xml:id="place-DDP023">
          <placeName> Madrid </placeName> <country> Spain </country>
          <idno type="VIAF"> 155864429 </idno>
          <ptr target="http://viaf.org/viaf/155864429"/>
       </place>
       
-      <place xml:id="place_DDP024">
+      <place xml:id="place-DDP024">
          <placeName> Dublin </placeName> <country> Ireland </country>
          <idno type="VIAF"> 172385847 </idno>
          <ptr target="http://viaf.org/viaf/172385847"/>
       </place>
       
-      <place xml:id="place_DDP025">
+      <place xml:id="place-DDP025">
          <placeName> Soviet Union </placeName> <country> Soviet Union </country>
          <idno type="VIAF"> 523152138665310982122 </idno>
          <ptr target="http://viaf.org/viaf/523152138665310982122"/>
       </place>
       
-      <place xml:id="place_DDP026">
+      <place xml:id="place-DDP026">
          <placeName> Jihočeský kraj </placeName> <country> Czech Republic </country>
          <idno type="LOC"> n80118539 </idno>
          <ptr target="https://lccn.loc.gov/n80118539"/>
       </place>
       
-      <place xml:id="place_DDP027">
+      <place xml:id="place-DDP027">
          <placeName> Horní Planá </placeName> <region>  Český Krumlov District </region> <country> Czech Republic </country> 
          <idno type="VIAF"> 145866424 </idno>
          <ptr target="http://viaf.org/viaf/145866424"/>
       </place>
       
-      <place xml:id="place_DDP028">
+      <place xml:id="place-DDP028">
          <placeName> Luxembourg </placeName> <country> Luxembourg </country>
          <idno type="VIAF"> 134398983 </idno>
          <ptr target="http://viaf.org/viaf/134398983"/>
       </place>
       
-      <place xml:id="place_DDP029">
+      <place xml:id="place-DDP029">
          <placeName> Kenya </placeName> <country> Kenya </country>
          <idno type="VIAF"> 128920262 </idno>
          <ptr target="http://viaf.org/viaf/128920262"/>
       </place>
       
-      <place xml:id="place_DDP030">
+      <place xml:id="place-DDP030">
          <placeName> Vienna </placeName> <country> Austria </country>
          <idno type="VIAF"> 238999862 </idno>
          <ptr target="http://viaf.org/viaf/238999862"/>
       </place>
       
-      <place xml:id="place_DDP031">
+      <place xml:id="place-DDP031">
          <placeName> Frankfurt am Main </placeName> <country> Germany </country>
          <idno type="VIAF"> 235434886 </idno>
          <ptr target="http://viaf.org/viaf/235434886"/>
       </place>
       
-      <place xml:id="place_DDP032">
+      <place xml:id="place-DDP032">
          <placeName> Cologne </placeName> <country> Germany </country>
          <idno type="VIAF"> 262770197 </idno>
          <ptr target="http://viaf.org/viaf/262770197"/>
       </place>
       
-      <place xml:id="place_DDP033">
+      <place xml:id="place-DDP033">
          <placeName> Nuremberg </placeName> <country> Germany </country>
          <idno type="VIAF"> 155319007 </idno>
          <ptr target="http://viaf.org/viaf/155319007"/>
       </place>
       
-      <place xml:id="place_DDP034">
+      <place xml:id="place-DDP034">
          <placeName> Teplice </placeName> <country> Czech Republic </country>
          <idno type="VIAF"> 129609346 </idno>
          <ptr target="https://viaf.org/en/viaf/129609346"/>
       </place>
       
-      <place xml:id="place_DDP035">
+      <place xml:id="place-DDP035">
          <placeName> Leipzig </placeName> <country> Germany </country>
          <idno type="VIAF"> 155929994 </idno>
          <ptr target="https://viaf.org/en/viaf/155929994"/>
       </place>
       
-      <place xml:id="place_DDP036">
+      <place xml:id="place-DDP036">
          <placeName> Berchtesgaden </placeName> <country> Germany </country>
          <idno type="VIAF"> 139547646 </idno>
          <ptr target="http://viaf.org/viaf/139547646"/>
       </place>
       
-      <place xml:id="place_DDP037">
+      <place xml:id="place-DDP037">
          <placeName> Hrad Orlík </placeName> <region> Jihočeský kraj </region> <country> Czech Republic </country>
          <idno type="VIAF"> 13154327980626852305 </idno>
          <ptr target="http://viaf.org/viaf/13154327980626852305"/>
       </place>
       
-      <place xml:id="place_DDP038">
+      <place xml:id="place-DDP038">
          <placeName> Godesburg </placeName> <region> Bonn </region> <country> Germany </country>
          <idno type="VIAF"> 240339732 </idno>
          <ptr target="http://viaf.org/viaf/240339732"/>
       </place>
       
-      <place xml:id="place_DDP039">
+      <place xml:id="place-DDP039">
          <placeName> Glasgow </placeName> <country> Scotland </country>
          <idno type="VIAF"> 131865526 </idno>
          <ptr target="http://viaf.org/viaf/131865526"/>
       </place>
       
-      <place xml:id="place_DDP040">
+      <place xml:id="place-DDP040">
          <placeName> Oxford </placeName> <country> England </country>
          <idno type="VIAF"> 145353627 </idno>
          <ptr target="http://viaf.org/viaf/145353627"/>
       </place>
       
-      <place xml:id="place_DDP043">
+      <place xml:id="place-DDP043">
          <placeName> Rhine Province </placeName> <country> Germany </country>
          <idno type="VIAF"> 312807949 </idno>
          <ptr target="http://viaf.org/viaf/312807949"/>
       </place>
       
-      <place xml:id="place_DDP044">
+      <place xml:id="place-DDP044">
          <placeName> Poland </placeName> <country> Poland </country>
          <idno type="VIAF"> 141810140 </idno>
          <ptr target="http://viaf.org/viaf/141810140"/>
       </place>
       
-      <place xml:id="place_DDP045">
+      <place xml:id="place-DDP045">
          <placeName> Moravia </placeName> <country> Czech Republic </country>
          <idno type="VIAF"> 46145067149766631482 </idno>
          <ptr target="http://viaf.org/viaf/46145067149766631482"/>
       </place>
       
-      <place xml:id="place_DDP046">
+      <place xml:id="place-DDP046">
          <placeName> Dresden </placeName> <country> Germany </country>
          <idno type="VIAF"> 146756224 </idno>
          <ptr target="http://viaf.org/viaf/146756224"/>
       </place>
       
-      <place xml:id="place_DDP047">
+      <place xml:id="place-DDP047">
          <placeName> Spain </placeName> <country> Spain </country>
          <idno type="VIAF"> 133609710 </idno>
          <ptr target="http://viaf.org/viaf/133609710"/>
       </place>
       
-      <place xml:id="place_DDP048">
+      <place xml:id="place-DDP048">
          <placeName> Innsbruck </placeName> <country> Austria </country>
          <idno type="VIAF"> 131336603 </idno>
          <ptr target="http://viaf.org/viaf/131336603"/>
       </place>
       
-      <place xml:id="place_DDP049">
+      <place xml:id="place-DDP049">
          <placeName> South America </placeName>
          <idno type="VIAF"> 577145424560886831330 </idno>
          <ptr target="http://viaf.org/viaf/577145424560886831330"/>
       </place>
       
-      <place xml:id="place_DDP050">
+      <place xml:id="place-DDP050">
          <placeName> France </placeName> <country> France </country>
          <idno type="VIAF"> 264091107 </idno>
          <ptr target="http://viaf.org/viaf/264091107"/>
       </place>
       
-      <place xml:id="place_DDP051">
+      <place xml:id="place-DDP051">
          <placeName> Syria </placeName> <country> Syria </country>
          <idno type="VIAF"> 154701530 </idno>
          <ptr target="http://viaf.org/viaf/154701530"/>
       </place>
       
-      <place xml:id="place_DDP052">
+      <place xml:id="place-DDP052">
          <placeName> Paris </placeName> <country> France </country>
          <idno type="VIAF"> 158822968 </idno>
          <ptr target="https://viaf.org/en/viaf/158822968"/>
       </place>
       
-      <place xml:id="place_DDP053">
+      <place xml:id="place-DDP053">
          <placeName> Brussels </placeName> <country> Belgium </country>
          <idno type="VIAF"> 158822968 </idno>
          <ptr target="https://viaf.org/en/viaf/158822968"/>
       </place>
       
-      <place xml:id="place_DDP054">
+      <place xml:id="place-DDP054">
          <placeName> Italy </placeName> <country> Italy </country>
          <idno type="VIAF"> 152361066 </idno>
          <ptr target="https://viaf.org/en/viaf/152361066"/>
       </place>
       
-      <place xml:id="place_DDP055">
+      <place xml:id="place-DDP055">
          <placeName> Germany </placeName> <country> Germany </country>
          <idno type="VIAF"> 189116956 </idno>
          <ptr target="https://viaf.org/en/viaf/189116956"/>
       </place>
       
-      <place xml:id="place_DDP056">
+      <place xml:id="place-DDP056">
          <placeName> Ligne Maginot </placeName> <country> France </country>
          <idno type="VIAF"> 316431960 </idno>
          <ptr target="http://viaf.org/viaf/316431960"/>
       </place>
       
-      <place xml:id="place_DDP057">
+      <place xml:id="place-DDP057">
          <placeName> Siegfried Line </placeName> <country> Germany </country>
          <idno type="VIAF"> 235033075 </idno>
          <ptr target="https://viaf.org/en/viaf/235033075"/>
       </place>
       
-      <place xml:id="place_DDP058">
+      <place xml:id="place-DDP058">
          <placeName> Chathill </placeName> <settlement> Ellingham </settlement> <region> Northumberland </region> <country> England </country>
          <ptr target="https://en.wikipedia.org/wiki/Chathill"/>
       </place>
       
-      <place xml:id="place_DDP059">
+      <place xml:id="place-DDP059">
          <placeName> Ellingham </placeName> <region> Northumberland </region> <country> England </country>
          <ptr target="https://en.wikipedia.org/wiki/Ellingham,_Northumberland"/>
       </place>
       
-      <place xml:id="place_DDP060">
+      <place xml:id="place-DDP060">
          <placeName> Belgium </placeName> <country> Belgium </country>
          <idno type="VIAF"> 144248059 </idno>
          <ptr target="https://viaf.org/en/viaf/144248059"/>
       </place>
       
-      <place xml:id="place_DDP061">
+      <place xml:id="place-DDP061">
          <placeName> Austria </placeName> <country> Austria </country>
          <idno type="VIAF"> 148842731 </idno>
          <ptr target="https://viaf.org/en/viaf/148842731"/>
       </place>
       
-      <place xml:id="place_DDP062">
+      <place xml:id="place-DDP062">
          <placeName> Romania </placeName> <country> Romania </country>
          <idno type="LOC"> n79049551 </idno>
          <ptr target="https://lccn.loc.gov/n79049551"/>
       </place>
       
-      <place xml:id="place_DDP063">
+      <place xml:id="place-DDP063">
          <placeName> Turkey </placeName> <country> Turkey </country>
          <idno type="VIAF"> 244983681 </idno>
          <ptr target="https://viaf.org/en/viaf/244983681"/>
       </place>
       
-      <place xml:id="place_DDP064">
+      <place xml:id="place-DDP064">
          <placeName> Eigg </placeName> <region> Inner Hebridies </region> <country> Scotland </country>
          <idno type="VIAF"> 132665324 </idno>
          <ptr target="https://viaf.org/en/viaf/132665324"/>
@@ -380,3 +380,4 @@
    </listPlace>    
    </standOff>    
 </TEI>
+
