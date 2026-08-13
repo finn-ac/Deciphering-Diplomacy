@@ -376,8 +376,14 @@
          <ptr target="https://viaf.org/en/viaf/132665324"/>
       </place>
       
+      <place xml:id="place-DDP065">
+         <placeName> Barton Street and Cowley Street </placeName> <settlement> Westminster </settlement> <settlement> London </settlement> <country> England </country>
+         <ptr target="Barton Street and Cowley Street, Westminster - Wikipedia"/>
+      </place>
+      
       
    </listPlace>    
    </standOff>    
 </TEI>
+
 
