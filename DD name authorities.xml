@@ -2535,6 +2535,43 @@
             <ptr target="https://en.wikipedia.org/wiki/Walter_Runciman,_1st_Viscount_Runciman_of_Doxford"/>
          </person>
          
+         <person xml:id="person-DD250">
+            <idno type="VIAF"> 24730281 </idno>
+            <persName> <forename> Henry Agard </forename> <surname> Wallace </surname> </persName>
+            <birth when="1888-10-07"></birth>
+            <death when="1965-11-18"></death>
+            <note> <p> United States Secretary of Agriculture, 1933-1940.</p> </note>
+            <ptr target="https://viaf.org/en/viaf/24730281"/>
+            <ptr target="https://en.wikipedia.org/wiki/Henry_A._Wallace"/>
+         </person>
+         
+         <person xml:id="person-DD251">
+            <idno type="VIAF"> 19771505 </idno>
+            <persName> Sir <forename> Robert Hamilton Bruce </forename> <surname> Lockhart </surname> </persName>
+            <birth when="1887-09-02"></birth>
+            <death when="1970-02-27"></death>
+            <note> <p> British diplomat, journalist, author, and secret agent.</p> </note>
+            <ptr target="https://viaf.org/en/viaf/19771505"/>
+            <ptr target="https://en.wikipedia.org/wiki/R._H._Bruce_Lockhart"/>
+         </person>
+         
+         <person xml:id="person-DD252">
+            <persName> <forename> Douglas Keith </forename> <surname> Fairweather </surname> </persName>
+            <birth when="1890-10-25"></birth>
+            <death when="1944-04-03"></death>
+            <note> ATA Ferry Pilot; married to Margaret Fairweather, daughter of Hilda and Walter Runciman. </note>
+         </person>
+         
+         <person xml:id="person-DD253">
+            <idno type="VIAF"> 95207407 </idno>
+            <persName> <forename> Bedřich </forename> <surname> Smetana </surname> </persName>
+            <birth when="1824-03-02"></birth>
+            <death when="1884-05-12"></death>
+            <note> <p> Czech composer.</p> </note>
+            <ptr target="https://viaf.org/en/viaf/95207407"/>
+            <ptr target="https://en.wikipedia.org/wiki/Bed%C5%99ich_Smetana"/>
+         </person>
+         
         </listPerson>
    </standOff>
 </TEI>
