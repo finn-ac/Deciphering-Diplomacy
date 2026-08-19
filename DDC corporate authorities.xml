@@ -346,8 +346,49 @@
             <desc> British daily newspaper founded in 1785. </desc>
          </org>
          
+         <org>
+            <orgName key="org-DDC041"> Balliol College (University of Oxford) </orgName>
+            <placeName> Oxford <country> England </country>
+               <idno type="VIAF"> 134825322 </idno>
+               <ref target="https://viaf.org/en/viaf/134825322"/>
+            </placeName>
+         </org>
+         
+         <org>
+            <orgName key="org-DDC042"> Sudetendeutsche Partei </orgName>
+            <placeName> <country> Czech Republic </country> 
+            <idno type="VIAF"> 149627329 </idno>
+            <ref target="https://viaf.org/en/viaf/149627329"/>
+            </placeName>
+            <desc> Political party established by Konrad Henlein; in operation 1933-1945. </desc>
+         </org>
+         
+         <org>
+            <orgName key="org-DDC043"> Barrandov Terraces </orgName>
+            <placeName> Prague <country> Czech Republic </country>
+            </placeName>
+            <desc> Restaurant and swimming pool overlooking the Vlatva River. </desc>
+         </org>
+         
+         <org>
+            <orgName key="org-DDC044"> Labour Party Great Britain </orgName>
+            <placeName> <country> Great Britain </country> 
+            <idno type="VIAF"> 54145970320132252353 </idno>
+            <ref target="https://viaf.org/en/viaf/54145970320132252353"/>
+            </placeName>
+            <desc> Political party in the United Kingdom; founded 1900. </desc>
+         </org>
+         
+         <org>
+            <orgName key="org-DDC045"> St. Galler Tagblatt </orgName>
+            <placeName> St Gallen <country> Czech Republic </country> </placeName>
+            <desc> Swiss German-language daily newspaper; founded in 1789. </desc>
+         </org>
+         
+         
          
          
       </listOrg>
    </standOff>
 </TEI>
+
