@@ -2572,6 +2572,75 @@
             <ptr target="https://en.wikipedia.org/wiki/Bed%C5%99ich_Smetana"/>
          </person>
          
+         <person xml:id="person-DD254">
+            <persName> <forename> Frederick </forename> <surname> Lewis </surname> , 1st Baron Essendon </persName>
+            <birth when="1870"></birth>
+            <death when="1944"></death>
+            <note> <p> British shipping magnate. </p> </note>
+            <ptr target="https://en.wikipedia.org/wiki/Frederick_Lewis,_1st_Baron_Essendon"/>
+         </person>
+         
+         <person xml:id="person-DD255">
+            <persName> <forename> Elsie Margaret </forename> <surname> Stronge </surname> </persName>
+            <note> <p> Married to Brigadier Humphrey Cecil Travell Stronge; nee Burnside. </p> </note>
+         </person>
+         
+         <person xml:id="person-DD256">
+            <persName> Hohenlohes </persName>
+            <ptr target="#person-DD052"/>
+            <ptr target="#person-DD053"/>
+         </person>
+         
+         <person xml:id="person-DD257">
+            <persName> <forename> Roderick Sydney </forename> <surname> King-Farlow </surname> </persName>
+            <note> <p> Married to Margaret Runciman (later Fairweather) from 1925-1936. </p> </note>
+         </person>
+         
+         <person xml:id="person-DD258">
+            <persName> <forename> Napoleon </forename> <surname> Bonaparte </surname> </persName>
+            <birth when="1769-08-15"></birth>
+            <death when="1821-05-05"></death>
+            <note> <p> French general and statesman. </p> </note>
+         </person>
+         
+         <person xml:id="person-DD259">
+            <persName> <forename> Karl Philipp </forename> <surname> Schwarzenberg </surname> </persName>
+            <birth when="1771-04-18"></birth>
+            <death when="1820-10-15"></death>
+            <note> <p> Austrian general. </p> </note>
+         </person>
+         
+         <person xml:id="person-DD260">
+            <persName> <forename> Joseph </forename> <surname> Stalin </surname></persName>
+            <birth when="1878-12-18"></birth>
+            <death when="1953-03-05"></death>
+         </person>
+         
+         <person xml:id="person-DD261">
+            <persName> Maria Theresia Walburga Amalia Christina </persName>
+            <birth when="1717-05-13"></birth>
+            <death when="1780-11-29"></death>
+            <note> <p> Ruler of the Habsburg monarchy, 1740-1780. </p> </note>
+            <ptr target="https://en.wikipedia.org/wiki/Maria_Theresa"/>
+         </person>
+         
+         <person xml:id="person-DD262">
+            <persName> Charles VI, Holy Roman Emperor </persName>
+            <birth when="1685-10-01"></birth>
+            <death when="1740-10-20"></death>
+            <note> <p> Ruler of the Austrian Habsburg monarchy, 1711-1740. </p> </note>
+            <ptr target="https://en.wikipedia.org/wiki/Charles_VI,_Holy_Roman_Emperor"/>
+         </person>
+         
+         <person xml:id="person-DD263">
+            <persName> <forename> Kamil </forename> <surname> Krofta </surname> </persName>
+            <birth when="1876-07-17"></birth>
+            <death when="1945-08-16"></death>
+            <note> <p> Minister of Foreign Affairs of Czechoslovakia, 1936-1938. </p> </note>
+            <ptr target="https://en.wikipedia.org/wiki/Kamil_Krofta"/>
+         </person>
+         
         </listPerson>
    </standOff>
 </TEI>
+
