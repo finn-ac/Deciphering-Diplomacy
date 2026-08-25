@@ -385,10 +385,49 @@
             <desc> Swiss German-language daily newspaper; founded in 1789. </desc>
          </org>
          
+         <org>
+            <orgName key="org-DDC046"> India. High Commission (Great Britain) </orgName>
+            <placeName> London <country> England </country> 
+            <idno type="VIAF"> 132791341 </idno>
+            <ref target="https://viaf.org/en/viaf/132791341"/>
+            </placeName>
+         </org>
+         
+         <org>
+            <orgName key="org-DDC047"> Royal Yacht Squadron (Great Britain) </orgName>
+            <placeName> Cowes, Isle of Wight 
+               <idno type="VIAF"> 158362523 </idno>
+               <ref target="https://viaf.org/en/viaf/158362523"></ref>
+            </placeName>
+         </org>
+         
+         <org>
+            <orgName key="org-DDC048"> Habsburg, House of </orgName>
+               <idno type="VIAF"> 252533436 </idno>
+            <desc> Also known as the House of Austria. European dynasty.
+               <ref target="https://viaf.org/en/viaf/252533436"></ref>
+            </desc>
+         </org>
+         
+         <org>
+            <orgName key="org-DDC049"> Windsor Castle </orgName>
+            <placeName> Windsor <country> England </country>
+               <idno type="VIAF"> 121660310 </idno>
+               <ref target="https://viaf.org/en/viaf/121660310"></ref>
+            </placeName>
+         </org>
+         
+         <org>
+            <orgName key="org-DDC050"> Škoda (Firm) </orgName>
+            <placeName> <country> Czech Republic </country>
+               <idno type="VIAF"> 292828003 </idno>
+               <ref target="https://viaf.org/en/viaf/292828003"></ref>
+            </placeName>
+         </org>
+         
          
          
          
       </listOrg>
    </standOff>
 </TEI>
-
