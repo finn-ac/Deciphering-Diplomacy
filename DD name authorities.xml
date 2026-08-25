@@ -2597,50 +2597,61 @@
          </person>
          
          <person xml:id="person-DD258">
+            <idno type="VIAF"> 106964661 </idno>
             <persName> <forename> Napoleon </forename> <surname> Bonaparte </surname> </persName>
             <birth when="1769-08-15"></birth>
             <death when="1821-05-05"></death>
             <note> <p> French general and statesman. </p> </note>
+            <ptr target="https://viaf.org/en/viaf/106964661"/>
          </person>
          
          <person xml:id="person-DD259">
+            <idno type="VIAF"> 24593025 </idno>
             <persName> <forename> Karl Philipp </forename> <surname> Schwarzenberg </surname> </persName>
             <birth when="1771-04-18"></birth>
             <death when="1820-10-15"></death>
             <note> <p> Austrian general. </p> </note>
+            <ptr target="https://viaf.org/en/viaf/24593025"/>
          </person>
          
          <person xml:id="person-DD260">
+            <idno type="VIAF"> 101787139 </idno>
             <persName> <forename> Joseph </forename> <surname> Stalin </surname></persName>
             <birth when="1878-12-18"></birth>
             <death when="1953-03-05"></death>
+            <ptr target="https://viaf.org/en/viaf/101787139"/>
          </person>
          
          <person xml:id="person-DD261">
-            <persName> Maria Theresia Walburga Amalia Christina </persName>
+            <idno type="VIAF"> 59876481 </idno>
+            <persName> Maria Theresia Walburga Amalia Christina, Empress of Austria </persName>
             <birth when="1717-05-13"></birth>
             <death when="1780-11-29"></death>
             <note> <p> Ruler of the Habsburg monarchy, 1740-1780. </p> </note>
+            <ptr target="https://viaf.org/en/viaf/59876481"/>
             <ptr target="https://en.wikipedia.org/wiki/Maria_Theresa"/>
          </person>
          
          <person xml:id="person-DD262">
+            <idno type="VIAF"> 267415897 </idno>
             <persName> Charles VI, Holy Roman Emperor </persName>
             <birth when="1685-10-01"></birth>
             <death when="1740-10-20"></death>
             <note> <p> Ruler of the Austrian Habsburg monarchy, 1711-1740. </p> </note>
+            <ptr target="https://viaf.org/en/viaf/267415897"/>
             <ptr target="https://en.wikipedia.org/wiki/Charles_VI,_Holy_Roman_Emperor"/>
          </person>
          
          <person xml:id="person-DD263">
+            <idno type="VIAF"> 22134070 </idno>
             <persName> <forename> Kamil </forename> <surname> Krofta </surname> </persName>
             <birth when="1876-07-17"></birth>
             <death when="1945-08-16"></death>
             <note> <p> Minister of Foreign Affairs of Czechoslovakia, 1936-1938. </p> </note>
+            <ptr target="https://viaf.org/en/viaf/22134070"/>
             <ptr target="https://en.wikipedia.org/wiki/Kamil_Krofta"/>
          </person>
          
         </listPerson>
    </standOff>
 </TEI>
-
