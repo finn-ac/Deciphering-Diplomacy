@@ -2652,6 +2652,57 @@
             <ptr target="https://en.wikipedia.org/wiki/Kamil_Krofta"/>
          </person>
          
+         <person xml:id="person-DD264">
+            <persName> Kinskys </persName>
+            <ptr target="#person-DD066"/>
+            <ptr target="#person-DD067"/>
+         </person>
+         
+         <person xml:id="person-DD265">
+            <persName> Ledeburs </persName>
+            <ptr target="#person-DD078"/>
+            <ptr target="#person-DD079"/>
+         </person>
+         
+         <person xml:id="person-DD266">
+            <persName> Kralish Randas </persName>
+            <ptr target="#person-DD094"/>
+            <ptr target="#person-DD095"/>
+         </person>
+         
+         <person xml:id="person-DD267">
+            <persName> Czernins </persName>
+            <ptr target="#person-DD102"/>
+         </person>
+         
+         <person xml:id="person-DD268">
+            <idno type="VIAF"> 95146280 </idno>
+            <persName> <forename> Franz Joseph </forename> <surname> Haydn </surname> </persName>
+            <birth when="1732-03-31"></birth>
+            <death when="1809-05-31"></death>
+            <note> Austrian composer </note>
+            <ptr target="https://viaf.org/en/viaf/95146280"/>
+            <ptr target="https://en.wikipedia.org/wiki/Joseph_Haydn"/>
+         </person>
+         
+         <person xml:id="person-DD269">
+            <idno type="VIAF"> 71577743 </idno>
+            <persName> <forename> Antonín Leopold </forename> <surname> Dvořák </surname> </persName>
+            <birth when="1841-09-08"></birth>
+            <death when="1904-05-01"></death>
+            <note> Czech composer </note>
+            <ptr target="https://viaf.org/en/viaf/71577743"/>
+         </person>
+         
+         <person xml:id="person-DD270">
+            <idno type="VIAF"> 32197206 </idno>
+            <persName> <forename> Wolfgang Amadeus </forename> <surname> Mozart </surname> </persName>
+            <birth when="1756-01-27"></birth>
+            <death when="1791-12-05"></death>
+            <note> Austrian composer </note>
+            <ptr target="https://viaf.org/en/viaf/32197206"/>
+         </person>
+         
         </listPerson>
    </standOff>
 </TEI>
